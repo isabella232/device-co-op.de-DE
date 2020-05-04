@@ -1,19 +1,19 @@
 ---
-description: Gerätediagramm-Daten sind in Profil-Link als Zusammenführungsregeloption verfügbar. Mit einer Zusammenführungsregel können Sie die Arten von Daten bestimmen, die Audience Manager zur Segmentierung verwendet.
-seo-description: Gerätediagramm-Daten sind in Profil-Link als Zusammenführungsregeloption verfügbar. Mit einer Zusammenführungsregel können Sie die Arten von Daten bestimmen, die Audience Manager zur Segmentierung verwendet.
-seo-title: Audience Manager - Profillink
-title: Audience Manager - Profillink
+description: Gerätediagrammdaten stehen als Zusammenführungsregeloption in Profil Link zur Verfügung. Mit einer Zusammenführungsregel können Sie steuern, welcher Typ von Daten von Audience Manager für die Segmentierung verwendet wird.
+seo-description: Gerätediagrammdaten stehen als Zusammenführungsregeloption in Profil Link zur Verfügung. Mit einer Zusammenführungsregel können Sie steuern, welcher Typ von Daten von Audience Manager für die Segmentierung verwendet wird.
+seo-title: Audience-Manager - Profil-Link
+title: Audience-Manager - Profil-Link
 uuid: cebf40e5-9f0c-4e59-b4a7-73696fa2dadc
 translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
 
 ---
 
 
-# Audience Manager - Profile Link{#audience-manager-profile-link}
+# Audience-Manager - Profil-Link{#audience-manager-profile-link}
 
-Gerätediagramm-Daten sind in Profil-Link als Zusammenführungsregeloption verfügbar. Mit einer Zusammenführungsregel können Sie die Arten von Daten bestimmen, die Audience Manager zur Segmentierung verwendet.
+Gerätediagrammdaten stehen als Zusammenführungsregeloption in Profil Link zur Verfügung. Mit einer Zusammenführungsregel können Sie steuern, welcher Typ von Daten von Audience Manager für die Segmentierung verwendet wird.
 
-Der Profillink arbeitet mit geräteübergreifenden Data Sources, um Eigenschaften authentifizierter Websitebesucher zu erkennen und zu erfassen. Es enthält die Funktion Regeln zum Profilzusammenführen. Mit den Regeln zur Profilzusammenführung erhalten Sie die Kontrolle über die für die Segmentierung verwendeten Datensätze und können eine Person präzise auf mehreren Geräten ansprechen.
+Profil Link funktioniert mit geräteübergreifenden Datenquellen, um Eigenschaften für authentifizierte Site-Besucher zu identifizieren und zu erfassen. Es enthält die Funktion zum Zusammenführen von Profilen. Mit Profil Merge Rules erhalten Sie die Kontrolle über die für die Segmentierung verwendeten Datensätze und können eine Zielgruppe auf mehreren Geräten durchführen.
 
-Weitere Informationen finden Sie in der Dokumentation [zum](https://marketing.adobe.com/resources/help/en_US/aam/profile-link-intro.html) Profillink.
+See the [Profile Link documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) for more information.
