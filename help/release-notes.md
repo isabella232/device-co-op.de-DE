@@ -5,13 +5,13 @@ seo-title: Versionshinweise zur Gerätekooperation in Experience Cloud
 title: Versionshinweise zur Gerätekooperation in Experience Cloud
 uuid: 337d7eee-12b1-4ba4-a63b-3ccb88b825f7
 translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
 
 ---
 
 
-# Experience Cloud Device Co-op release notes{#experience-cloud-device-co-op-release-notes}
+# Versionshinweise zur Gerätekooperation in Experience Cloud{#experience-cloud-device-co-op-release-notes}
 
 Funktionsveröffentlichungen, Aktualisierungen oder Änderungen am Device Co-op.
 
-Diese Änderungen sind auch in den [Experience Cloud-Versionshinweisen](https://marketing.adobe.com/resources/help/en_US/whatsnew/) enthalten. Ältere Ankündigungen zur [Experience Cloud](https://marketing.adobe.com/resources/help/en_US/whatsnew/c_legacy_releases.html) finden Sie unter frühere Versionshinweise.
+Diese Änderungen werden auch in den [Experience Cloud-Versionshinweisen](https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/current.html)erfasst. Ältere Ankündigungen zu Experience Cloud finden Sie im Abschnitt &quot;Frühere Versionshinweise&quot;auf dieser Seite.
