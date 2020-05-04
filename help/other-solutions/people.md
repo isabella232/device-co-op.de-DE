@@ -1,20 +1,20 @@
 ---
-description: Die Metrik für Personen ist die Anzahl der Personen (oder Gerätegruppen), basierend auf dem Gerätediagramm von Adobe. Sie können die Metrik für Personen anwenden, um Besucher geräteübergreifend in Analysis Workspace zu identifizieren.
-seo-description: Die Metrik für Personen ist die Anzahl der Personen (oder Gerätegruppen) basierend auf dem Gerätediagramm von Adobe. Sie können die Metrik für Personen anwenden, um Besucher geräteübergreifend in Analysis Workspace zu identifizieren.
-seo-title: Metrik für Personen
-title: Metrik für Personen
+description: Die Metrik "Personen"ist die Anzahl der Personen (oder Gerätegruppen), die auf dem Gerätediagramm von Adobe basieren. Sie können die Metrik "Personen"anwenden, um Besucher geräteübergreifend in Analyse Workspace zu identifizieren.
+seo-description: Die Metrik "Personen"ist die Anzahl der Personen (oder Gerätegruppen), die auf dem Gerätediagramm von Adobe basieren. Sie können die Metrik "Personen"anwenden, um Besucher geräteübergreifend in Analyse Workspace zu identifizieren.
+seo-title: Metrik "Personen"
+title: Metrik "Personen"
 uuid: 8e731779-044d-4d31-a19a-f579a9c8c471
 translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
 
 ---
 
 
-# Metrik für Personen{#people-metric}
+# Metrik &quot;Personen&quot;{#people-metric}
 
-Die Metrik für Personen ist die Anzahl der Personen (oder Gerätegruppen), basierend auf dem Gerätediagramm von Adobe. Sie können die Metrik für Personen anwenden, um Besucher geräteübergreifend in Analysis Workspace zu identifizieren.
+Die Metrik &quot;Personen&quot;ist die Anzahl der Personen (oder Gerätegruppen), die auf dem Gerätediagramm von Adobe basieren. Sie können die Metrik &quot;Personen&quot;anwenden, um Besucher geräteübergreifend in Analyse Workspace zu identifizieren.
 
-## People Metric Prerequisites and Considerations {#section-34551d0435fb4b3cb3fad736b7961541}
+## Voraussetzungen und Überlegungen zu Metriken für Personen {#section-34551d0435fb4b3cb3fad736b7961541}
 
 <table id="table_120F7EF50042485391E58B22DD00A2A8"> 
  <thead> 
@@ -26,50 +26,50 @@ Die Metrik für Personen ist die Anzahl der Personen (oder Gerätegruppen), basi
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Device Co-op </p> </td> 
-   <td colname="col2"> <p> To use the People metric, become a member of the <a href="http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="html" scope="external"> Adobe Experience Cloud Device Co-op</a>. Die Kooperation identifiziert die verschiedenen Geräte einer Person (oder Experience Cloud IDs). Mithilfe dieser Informationen kann Analytics dann die Anzahl der Personen statistisch ableiten, die mit einer Marke interagieren. Die Metrik ist auf maximal 5 % genau. </p> <p><b>Regionen</b>: Die Device Co-op ist im Moment lediglich in den USA und in Kanada verfügbar. Daher sollten Sie bei der Auswertung der Metrik für Personen ein Segment auf Ihre Analyse anwenden, das Ihre Daten nur nach den USA und Kanada filtert. </p> <p>Jede Woche berechnet das Gerätediagramm eine neue Version der Kooperation und veröffentlicht diese für die Verwendung. An Dienstagen sammelt das System die aktuellsten Daten und veröffentlicht eine aktualisierte Version des Diagramms. Experience Cloud-Lösungen verwenden dann die neueste Version des Diagramms. Speziell für Analytics werden die Änderungen mittwochs gelesen und die Verarbeitung dauert in der Regel zwischen 1 und 2 Werktagen. </p> <p> <p>Wichtig:  Wenn das Diagramm wöchentlich aktualisiert wird, kann dies historische Auswirkungen auf die Metrik "Personen"haben. Mit anderen Worten, die Zählung historischer Personen kann sich mit der Zeit ändern, während das Diagramm lernt und aktualisiert wird. Wenn Sie beispielsweise heute einen Bericht ausführen, der "Personen im letzten Monat"zählt, und dann in einer Woche nach der Aktualisierung des Diagramms denselben Bericht ausführen, kann sich die Anzahl der historischen "Personen"geringfügig ändern. </p> </p> </td> 
+   <td colname="col2"> <p> Um die Metrik "Personen"zu verwenden, müssen Sie Mitglied der <a href="http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="html" scope="external"> Adobe Experience Cloud-Gerätekooperation</a>werden. Die Kooperation identifiziert die verschiedenen Geräte einer Person (oder Experience Cloud IDs). Analytics nutzt diese Informationen, um die Anzahl der Personen, die mit einer Marke interagieren, statistisch abzuleiten. Die Metrik ist auf maximal 5 % genau. </p> <p><b>Regionen</b>: Die Device Co-op ist derzeit nur in den USA und Kanada verfügbar. Daher sollten Sie bei der Auswertung der Metrik "Personen"ein Segment auf Ihre Analyse anwenden, das Ihre Daten nur für die USA und Kanada Filter. </p> <p>Das Gerätediagramm berechnet jede Woche eine neue Version des Co-op und veröffentlicht sie zur Verwendung. Am Dienstag sammelt das System die neuesten Daten und veröffentlicht eine aktualisierte Version des Diagramms. Experience Cloud-Lösungen verwenden dann die neueste Version des Diagramms. Speziell für Analytics werden die Änderungen mittwochs gelesen und die Verarbeitung dauert in der Regel zwischen 1 und 2 Werktagen. </p> <p> <p>Wichtig:  Wenn das Diagramm wöchentlich aktualisiert wird, kann dies historische Auswirkungen auf die Metrik "Personen"haben. Mit anderen Worten, die Zählung historischer Personen kann sich mit der Zeit ändern, während das Diagramm lernt und aktualisiert wird. Wenn Sie beispielsweise heute einen Bericht ausführen, der "Personen im letzten Monat"zählt, und dann in einer Woche nach der Aktualisierung des Diagramms denselben Bericht ausführen, kann sich die Anzahl der historischen "Personen"geringfügig ändern. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Metrikberechtigungen </td> 
-   <td colname="col2"> <p>Sie können die Metrik "Personen"nur verwenden, wenn Ihnen Zugriff darauf gewährt wurde. Administratoren können<a href="https://marketing.adobe.com/resources/help/en_US/reference/groups-metrics.html" format="html" scope="external"> die Metrikberechtigungen</a> in den Admin Tools anpassen. </p> </td> 
+   <td colname="col2"> <p>Sie können die Metrik "Personen"nur verwenden, wenn Ihnen Zugriff darauf gewährt wurde. Administratoren können<a href="https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/customize-report-access/groups-metrics.html" format="html" scope="external"> die Metrikberechtigungen</a> in den Admin Tools anpassen. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Zuordnung zu IMS-Org </td> 
-   <td colname="col2"> <p>Die Metrik "Personen"wird für alle Report Suites aktiviert, die einem IMSORG <a href="https://marketing.adobe.com/resources/help/en_US/mcloud/map-report-suite.html" format="html" scope="external"> zugeordnet sind</a>. </p> </td> 
+   <td colname="col2"> <p>Die Metrik "Personen"wird für alle Report Suites aktiviert, die einem IMSORG <a href="https://docs.adobe.com/content/help/de-DE/core-services/interface/about-core-services/report-suite-mapping.html" format="html" scope="external"> zugeordnet sind</a>. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Analyseprojekte/ Analysewerkzeuge </p> </td> 
-   <td colname="col2"> <p>Verwenden Sie die Metrik für Personen in <span class="wintitle">Analysis Workspace</span>, <span class="wintitle">Ad-hoc-Analysen</span>, <span class="wintitle">ReportBuilder</span> und über die API. Sie können Sie überall verwenden, wo Sie sonst die Metrik „Unique Visitors“ einsetzen würden (inklusive berechnete Metriken). </p> <p>So können Sie zum Beispiel eine Metrik „Umsatz pro Person“ erstellen, um eine Metrik „Umsatz pro Unique Visitor“ zu ersetzen. </p> <p>Es ist eine <a href="https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/starter_projects.html" format="html" scope="external">Personen-Projekt-Vorlage</a> verfügbar, um mit der Verwendung der Metrik für Personen in Analysis Workspace zu beginnen. </p> </td> 
+   <td colname="col1"> <p>Analyse Projekte/Tools </p> </td> 
+   <td colname="col2"> <p>Verwenden Sie die Metrik "Personen"in <span class="wintitle"> Analyse Workspace</span>, <span class="wintitle"> Ad-hoc-Analysen</span>, <span class="wintitle"> ReportBuilder</span>und über die API. Sie können sie überall dort verwenden, wo Sie die Metrik "Individuelle Besucher"verwenden würden, einschließlich berechneter Metriken. </p> <p>Erstellen Sie beispielsweise eine Metrik "Umsatz pro Person", um eine Metrik "Umsatz pro individuellem Besucher"zu ersetzen. </p> <p>Für die ersten Schritte mit der Metrik "Personen"im Arbeitsbereich für Analysen steht eine Projektvorlage <a href="https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html" format="html" scope="external"></a> für Personen zur Verfügung. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Aktivieren von Bot-Regeln </p> </td> 
-   <td colname="col2"> <p>Adobe empfiehlt das Aktivieren von <a href="https://marketing.adobe.com/resources/help/en_US/reference/bot_rules.html" format="html" scope="external">Bot-Regeln</a>, insbesondere bei der Verwendung der Metrik für Personen. </p> <p>Wenn ein Bot Ihre Website durchforstet, wird die Unique Visitor-Anzahl künstlich in die Höhe getrieben. Wenn Sie Bot-Verkehr aus Ihrer Report Suite entfernen, erhalten Sie eine genauere Messung der Aktivität Ihrer digitalen Eigenschaften, sowohl im Hinblick auf Unique Visitors als auch im Hinblick auf Personen. </p> <p>Wenn Sie dies tun möchten, navigieren Sie zu <span class="uicontrol">Analytics</span> &gt; <span class="uicontrol">Admin</span> &gt; <span class="uicontrol">Report Suites</span>. Wählen Sie die passende Report Suite aus und gehen Sie dann zu <span class="uicontrol">Einstellungen bearbeiten</span> &gt; <span class="uicontrol">Allgemein</span> &gt; <span class="uicontrol">Bot-Regeln</span>. </p> </td> 
+   <td colname="col1"> <p>Bot-Regeln aktivieren </p> </td> 
+   <td colname="col2"> <p>Adobe empfiehlt, dass Sie Bot-Regeln <a href="https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/bot-removal/bot-rules.html" format="html" scope="external"></a>aktivieren, insbesondere wenn Sie die Metrik "Personen"verwenden. </p> <p>Wenn ein Bot Ihre Website durchsucht, erhöht dies künstlich die Anzahl der individuellen Besucher. Die Entfernung des Bot-Traffics aus Ihrer Report Suite bietet eine genauere Messung der Aktivität Ihrer digitalen Eigenschaften, sowohl im Hinblick auf individuelle Besucher als auch auf Personen. </p> <p>Gehen Sie dazu zu <span class="uicontrol"> Analytics</span> &gt; <span class="uicontrol"> Admin</span> &gt; <span class="uicontrol"> Report Suites</span>. Select the correct report suite, and then go to <span class="uicontrol"> Edit Settings</span> &gt; <span class="uicontrol"> General</span> &gt; <span class="uicontrol"> Bot Rules</span>. </p> </td> 
   </tr> 
   <tr> 
-   <td colname="col1"> <p>Segmentierungsfaktoren </p> </td> 
-   <td colname="col2"> <p> Wenn Sie Segmente mit der Metrik für Personen verwenden, kann der Metrik-Bericht wesentlich geringer ausfallen als erwartet. </p> <p>Siehe <a href="../other-solutions/people.md#section-d03525420dbe48379fd95b230ef05885" format="dita" scope="local">Verwendung der Metrik für Personen mit Segmenten</a>. </p> </td> 
+   <td colname="col1"> <p>Überlegungen zur Segmentierung </p> </td> 
+   <td colname="col2"> <p> Wenn Sie Segmente mit der Metrik "Personen"verwenden, ist der Berichte der Metrik möglicherweise deutlich niedriger als erwartet. </p> <p>Siehe <a href="../other-solutions/people.md#section-d03525420dbe48379fd95b230ef05885" format="dita" scope="local"> Verwenden der Metrik "Personen"mit Segmenten</a>. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-## Was ist die Metrik für Personen? {#section-89e2b8f5e80f480391449fc8d1117a6a}
+## Was ist die Metrik &quot;Personen&quot;? {#section-89e2b8f5e80f480391449fc8d1117a6a}
 
-Die Metrik für Personen ist eine Berichterstattungsmetrik in Analytics, die Ihnen dabei hilft, Personen Geräte zuzuordnen. Sie bietet eine personenbasierte Marketing-Ansicht und ermöglicht es Ihnen, die Aktivität der Besucher über all ihre Geräte hinweg zu messen. Stellen Sie sich die Metrik wie eine deduplizierte Version von Unique Visitors vor. Sie können die Metrik für Personen in solchen Fällen für Analysen verwenden, für die Sie bisher Unique Visitors verwendet haben.
+Die Metrik &quot;Personen&quot;ist eine Analytics-Berichte-Metrik, mit der Sie Geräte Benutzern zuordnen können. Es bietet eine benutzerbasierte Ansicht des Marketings, mit der Sie die Aktivität der Besucher geräteübergreifend messen können. Stellen Sie sich dies als deduplizierte Version von &quot;Individuelle Besucher&quot;vor. Sie können die Metrik &quot;Personen&quot;für die Analyse verwenden, in der Sie zuvor &quot;Individuelle Besucher&quot;verwendet haben.
 
 **Geräte sind Personen**
 
-Bevor die Metrik für Personen verfügbar war, hat eine Person (zum Beispiel) Ihre Seite besucht und über drei verschiedene Geräte mit einer Kampagne oder Marke interagiert und einen Einkauf getätigt, und das sogar innerhalb von Minuten. Abhängig von Ihrer Implementierung ist es möglich, dass Analytics jedes Gerät als Unique Visitor zählt und drei Geräten bei einem Einkauf von 30 $ jeweils 10 $ zuordnet.
+Bevor die Metrik &quot;Personen&quot;verfügbar wurde, könnte eine Person (z. B.) Ihre Site besuchen und mit einer Kampagne oder Marke auf drei verschiedenen Geräten interagieren und einen Einkauf tätigen, auch innerhalb weniger Minuten. Je nach Implementierung meldet Analytics jedes Gerät als individuellen Besucher und weist bei einem Kauf im Wert von 30 USD 10 bis 30 Geräte zu.
 
-Mit der Metrik für Personen können Sie die 30 $ akkurat einer Person zuordnen:
+Mit der Metrik &quot;Personen&quot;können Sie diesen Kauf im Wert von 30 USD genau einer Person zuordnen:
 
 ![](assets/people-centric-results.png)
 
-**Höhere Genauigkeit in Berichten**
+**Erhöhte Genauigkeit in Berichten**
 
-Mithilfe der Metrik für Personen können Sie mehrere Geräte als eine einzige Einheit betrachten. Das folgende Analysis Workspace-Projekt verdeutlicht den Vergleich zwischen der Berichterstattung mit „Unique Visitors“ und „Personen“ mit erhöhter Genauigkeit:
+Mit der Metrik &quot;Personen&quot;können Sie mehrere Geräte als eine Einheit betrachten. Das folgende Analyse Workspace-Projekt zeigt einen genaueren Vergleich zwischen dem Berichte &quot;Individuelle Besucher&quot;und dem Berichte &quot;Personen&quot;an:
 
 ![](assets/people_report.png)
 
-Direkter Vergleich zwischen „Personen“ und „Unique Visitors“:
+Personen und individuelle Besucher nebeneinander vergleichen:
 
 ![](assets/people-report.png)
 
@@ -85,72 +85,72 @@ Direkter Vergleich zwischen „Personen“ und „Unique Visitors“:
  <tbody> 
   <tr> 
    <td colname="col1"> <p>„Personen“ </p> </td> 
-   <td colname="col2"> <p>Die Metrik für Personen basiert auf dem Gedanken, dass Verbraucher über mehrere Geräte mit Ihrer Marke interagieren. Je mehr Sie Ihre Daten aufteilen oder segmentieren, desto geringer ist die Wahrscheinlichkeit, dass dieselbe Person in einem Datenbereich mehrere Geräte verwendet hat. </p> </td> 
+   <td colname="col2"> <p>Die Metrik "Personen"basiert auf der Vorstellung, dass Verbraucher mit Ihrer Marke auf mehreren Geräten interagieren. Je mehr Sie Ihre Daten austeilen oder segmentieren, desto geringer ist die Wahrscheinlichkeit, dass dieselbe Person mehrere Geräte innerhalb dieses Datenausschnitts verwendet hat. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Unique Visitors </p> </td> 
-   <td colname="col2"> <p>Je mehr Sie Ihre Daten zum Beispiel nach Datum oder Zeit aufteilen, desto geringer ist der Unterschied zwischen „Personen“ und „Unique Visitors“. Wenn Sie die Auswirkungen der Gerätekooperation insgesamt verstehen möchten, empfiehlt Adobe die Verwendung eines Datumsbereichs der letzten 90 Tage </p> </td> 
+   <td colname="col2"> <p>Je mehr Daten Sie beispielsweise nach Datum oder Uhrzeit aufteilen, desto kleiner ist der Unterschied zwischen "Personen"und "Individuelle Besucher". Wenn Sie die Auswirkungen der Gerätekooperation insgesamt verstehen möchten, empfiehlt Adobe die Verwendung eines Datumsbereichs der letzten 90 Tage </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Komprimierung </p> </td> 
-   <td colname="col2"> <p>Wenn Sie eine einfache berechnete Metrik verwenden, können Sie sehen, um wie viel kleiner die Metrik für Personen als Prozentsatz von „Unique Visitors“ ist. Klicken Sie auf das Infosymbol neben „Komprimierung“ in der obenstehenden Tabelle, um zu sehen, wie Sie diese Metrik erstellen. </p> <p>„Personen“ kann in anderen berechneten Metriken anstelle von „Unique Visitors“ verwendet werden. </p> </td> 
+   <td colname="col2"> <p>Mithilfe einer einfachen errechneten Metrik können Sie erkennen, wie viel kleiner die Metrik "Personen"als Prozentsatz der individuellen Besucher ist. Klicken Sie auf das Infosymbol neben "Komprimierung" in der Tabelle oben, um zu sehen, wie diese Metrik erstellt wird. </p> <p>Personen können anstelle von individuellen Besuchern in anderen berechneten Metriken verwendet werden. </p> </td> 
   </tr> 
  </tbody> 
 </table>
 
-## Wie wird die Metrik für Personen berechnet? {#section-0dfb762867e14a7f927796ef3c50592b}
+## Wie wird die Metrik &quot;Personen&quot;berechnet? {#section-0dfb762867e14a7f927796ef3c50592b}
 
 <!--
 <p>Analytics uses the HyperLogLog statistical algorithm to calculate People. This means that the smaller the data set, the margin for error may increase. No more than 5% of the numbers should be off by more than 5% </p>
 -->
 
-Die folgende Grafik zeigt, wie die Metrik für Personen berechnet wird und wie sie sich mit der Zeit für den selben Datenbereich in der Vergangenheit verringern kann.
+Die folgende Abbildung zeigt, wie die Metrik &quot;Personen&quot;berechnet wird und wie sie im Laufe der Zeit für denselben Datumsbereich des Berichts in der Vergangenheit verringert werden kann.
 
 ![](assets/people-calculations.png)
 
-Nehmen wir in diesem Beispiel an, dass es einen festgelegten Besuchersatz gibt. Wenn Sie einen Bericht für einen festgelegten Zeitraum in der Vergangenheit ausführen, wird ein festgelegter Besuchersatz angezeigt. Wenn das Gerätediagramm die in der linken Grafik in „Woche 1“ angezeigten Daten ausgibt, ergibt das 90 Personen. Eine Woche später, nach dem nächsten Zyklus des Gerätediagramms, werden neue Informationen berücksichtigt. Wenn Sie denselben Bericht wie eine Woche zuvor ausführen, ist die Anzahl der Personen auf 84 zurückgegangen. Die Geschichte hat sich verändert, da das Gerätediagramm neue Informationen darüber geliefert hat, welche Geräte zu einer Gruppe zusammengefasst werden sollten.
+Nehmen wir in diesem Beispiel an, es gibt einen festen Satz von Besuchern. Wenn Sie einen Bericht für einen bestimmten Zeitraum in der Vergangenheit ausführen, wird ein fester Satz von Besuchern angezeigt. Wenn das Gerätediagramm die in Woche 1 auf der linken Grafik angezeigten Daten ausgibt, ergibt dies 90 Personen. Eine Woche später, nach der nächsten Ausführung des Gerätediagramms, werden neue Informationen berücksichtigt. Wenn Sie denselben Bericht ausführen wie vor einer Woche, ist die Anzahl der Menschen auf 84 zurückgegangen. Der Verlauf hat sich geändert, da das Gerätediagramm neue Informationen darüber lieferte, welche Geräte gruppiert werden sollten.
 
-## Verwendung der Metrik für Personen mit Segmenten {#section-d03525420dbe48379fd95b230ef05885}
+## Verwenden der Metrik &quot;Personen&quot;mit Segmenten {#section-d03525420dbe48379fd95b230ef05885}
 
-Wenn Sie Segmente mit der Metrik für Personen verwenden, kann der Metrik-Bericht wesentlich geringer ausfallen als erwartet. Das ist so, weil es in der Segmentierung keinen *`person`* Personen gibt. Die Segmentierung verwendet den Container „Besucher“, der per Definition der allgemeinste Container ist und auf dem Gerät basiert, nicht auf der Person.
+Wenn Sie Segmente mit der Metrik &quot;Personen&quot;verwenden, sind die Metrikergebnisse möglicherweise deutlich niedriger als erwartet. Dieses Problem tritt auf, weil es bei der Segmentierung keinen *`person`* Container gibt. Bei der Segmentierung wird der Besucher-Container verwendet, der der Container der obersten Ebene in der Definition ist und auf dem Gerät und nicht auf der Person basiert.
 
-Dieses Problem tritt hauptsächlich dann auf, wenn Segmente mit der Metrik für Personen gestapelt werden.
+Dieses Problem tritt vor allem beim Stapeln von Segmenten mit der Metrik &quot;Personen&quot;auf.
 
 ![](assets/people-stacked-segments.png)
 
-Wenn Segmente gestapelt werden, wird ein neues Segment erstellt, das die Kombination der Segmente darstellt. Segmentstapelung tritt immer dann auf, wenn Sie:
+Beim Stapeln von Segmenten wird ein neues Segment erstellt, das die Kombination der Segmente darstellt. Die Stapelung von Segmenten erfolgt immer dann, wenn:
 
-* Ein Segment in Analysis Workspace über ein anderes legen. (Sie werden über den Operator *`And`* hinzufügt.)
-* Apply a single segment that contains the *`And`* operator.
-* Wenden Sie ein Segment auf der Projektebene und der Tabellenebene an.
-* Verwenden Sie eine virtuelle Report Suite mit einem anderen Segment.
+* Platzieren Sie ein Segment über einem anderen Segment in Analyse Workspace. (Diese werden automatisch mit dem *`And`* Operator verbunden.)
+* Wenden Sie ein Segment an, das den *`And`* Operator enthält.
+* Wenden Sie ein Segment sowohl auf Projekt- als auch auf Tabellenebene an.
+* Verwenden Sie eine Virtual Report Suite mit einem anderen Segment.
 
-Nehmen wir beispielsweise an, dass Sie die folgenden Segmente auf der Metrik für Personen stapeln:
+Nehmen Sie beispielsweise an, Sie stapeln die folgenden Segmente in der Metrik &quot;Personen&quot;:
 
 * `Campaign = Spring Promotion`
 * `Site Section = Product Overview`
 
-Only the number of people who qualify in both segments *`using a single device`* are counted. (Die Metrik für Personen zeigt nicht die Anzahl der zutreffenden Personen über mehrere Geräte hinweg an.)
+Nur die Anzahl der Personen, die sich in beiden Segmenten qualifizieren, *`using a single device`* wird gezählt. (Die Metrik &quot;Personen&quot;zeigt nicht die Anzahl der qualifizierenden Personen geräteübergreifend an.)
 
-Außerdem ist die Verwendung des Operators *`Or`* in dieser Situation nicht zu empfehlen. Damit erhalten Sie die Anzahl der Personen, die das eine, oder das andere gesehen haben, wobei keine Möglichkeit besteht, herauszufinden, wie viele Personen auf beide Segmente zutreffen.
+Auch die Verwendung des *`Or`* Operators wird in diesem Fall nicht empfohlen. Dies würde eine Anzahl von Personen ergeben, die das eine oder andere gesehen haben, ohne zu zählen, wie viele Personen sich für beide Segmente qualifizieren.
 
-Weitere Informationen finden Sie unter [Erstellung von Segmenten](https://marketing.adobe.com/resources/help/en_US/analytics/segment/seg_build.html) in der Segmentierungshilfe.
+Weitere Informationen finden Sie unter [Erstellen von Segmenten](https://docs.adobe.com/content/help/de-DE/analytics/components/segmentation/segmentation-workflow/seg-build.html) in der Segmentierungshilfe.
 
 ## Gerätetypen {#section-8ab378c84ff34574b9c20fecb3848a86}
 
-Die Device Co-op und die Metrik für Personen funktionieren am besten in Adobe Analytics, wenn Ihre Report Suite Daten von verschiedenen Gerätetypen enthält. Zum Beispiel macht die Kombination von Web- und App-Daten in derselben Report Suite die Metrik für Personen leistungsstärker und effektiver. Je mehr Geräteüberkreuzungen es in Ihren Daten gibt, desto größer ist die Wahrscheinlichkeit, dass mehrere Unique Visitors zu einer Einzelperson zusammengeführt werden.
+Die Metrik &quot;Gerätekooperation&quot;und &quot;Personen&quot;funktioniert am besten in Adobe Analytics, wenn Ihre Report Suite Daten aus mehreren Gerätetypen enthält. Wenn Sie beispielsweise Web- und App-Daten in derselben Report Suite kombinieren, wird die Metrik &quot;Personen&quot;leistungsfähiger und effektiver. Je mehr Geräte-Crossover Ihre Daten enthalten, desto größer ist die Wahrscheinlichkeit, dass mehrere individuelle Besucher als eine Person gruppiert werden.
 
 ![](assets/people-device-types.png)
 
 ## Experience Cloud ID Service Coverage {#section-bbf0098cac2e467289e7a644a1dea05c}
 
-Für die Gerätekooperation müssen Ihre digitalen Eigenschaften mit dem Experience Cloud ID-Dienst (MCID) instrumentiert werden. Wenn die Daten in Ihrer Report Suite eine erhebliche Anzahl von Besuchern ohne MCID aufweisen, verringert dies die Effektivität der Device Co-op und der Metrik für Personen.
+Für die Gerätekooperation müssen Ihre digitalen Eigenschaften mit dem Experience Cloud ID-Dienst (MCID) instrumentiert werden. Wenn die Daten in Ihrer Report Suite eine erhebliche Anzahl von Besuchern ohne MCID enthalten, wird die Effektivität der Metrik &quot;Gerätekooperation&quot;und &quot;Personen&quot;verringert.
 
 <!--
 mcdc-people-metric-apply.xml
 -->
 
-In Analysis Workspace, create a [project](https://marketing.adobe.com/resources/help/en_US/analytics/analysis-workspace/t_freeform_project.html), then drag the **[!UICONTROL People]** metric to the project table:
+Erstellen Sie im Arbeitsbereich für Analysen ein [Projekt](https://docs.adobe.com/content/help/en/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html)und ziehen Sie dann die **[!UICONTROL People]** Metrik in die Projekttabelle:
 
 ![](assets/people-metric.png)
 
