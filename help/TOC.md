@@ -2,9 +2,13 @@
 cloud: experience-cloud
 product: Device Co-op
 audience: end-user
-user-guide-title: Device Co-op User Guide
+user-guide-title: Geräte-Co-op-Benutzerhandbuch
+user-guide-description: The Adobe Experience Cloud Device Co-op is a digital cooperative where participating customers share device link information. This information helps them deliver valuable and consistent cross-device experiences to their customers.
 translation-type: tm+mt
-source-git-commit: c4c4d5f795f974297ba3952807329d92e51ccaad
+source-git-commit: 67f9d909adac4d9e3229e66c76a43ee668ee7983
+workflow-type: tm+mt
+source-wordcount: '91'
+ht-degree: 2%
 
 ---
 
@@ -23,10 +27,10 @@ source-git-commit: c4c4d5f795f974297ba3952807329d92e51ccaad
    + [Unbekannte Geräte](processes/unknown-device.md)
 + Device Co-op-Daten in Experience Cloud-Lösungen {#data}
    + [Device Co-op-Daten in Experience Cloud-Lösungen](other-solutions/other-solutions.md)
-   + [Metrik für Personen](other-solutions/people.md)
-   + [Audience Manager - Profillink](other-solutions/proflie-link.md)
-   + [Target - A/B-Tests, Multivarianz-Tests und Erlebnis-Targeting](other-solutions/target.md)
+   + [Metrik &quot;Personen&quot;](other-solutions/people.md)
+   + [Audience-Manager - Profil-Link](other-solutions/proflie-link.md)
+   + [Zielgruppe - A/B-Tests, Multivarianz-Tests und Erlebnis-Targeting](other-solutions/target.md)
 + [Opt-out-Tool, Datenschutz und Gerätediagramm](privacy.md)
-+ [Glossar mit Begriffen in der Device Co-op](glossary.md)
++ [Glossar der Begriffe für die Gerätekooperation](glossary.md)
 + [FAQs](faq.md)
 + [Versionshinweise zur Gerätekooperation in Experience Cloud](release-notes.md)
