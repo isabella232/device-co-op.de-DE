@@ -1,36 +1,39 @@
 ---
-description: Wenn eine Person Geräte besitzt, über die sie nicht mit Ihrer Marke interagiert, werden diese Geräte „unbekannte Geräte“ genannt.
-seo-description: Wenn eine Person Geräte besitzt, über die sie nicht mit Ihrer Marke interagiert, werden diese Geräte „unbekannte Geräte“ genannt.
+description: Wenn eine Person Geräte hat, die nicht zur Interaktion mit Ihrer Marke verwendet werden, werden diese Geräte als unbekannte Geräte bezeichnet.
+seo-description: Wenn eine Person Geräte hat, die nicht zur Interaktion mit Ihrer Marke verwendet werden, werden diese Geräte als unbekannte Geräte bezeichnet.
 seo-title: Unbekannte Geräte
 title: Unbekannte Geräte
 uuid: 18e69dad-bdb3-4ac1-a690-374aba1aa0a6
 translation-type: tm+mt
 source-git-commit: 4f972a4ae3f0c5ee11b21876bd8a6966cad90371
+workflow-type: tm+mt
+source-wordcount: '249'
+ht-degree: 0%
 
 ---
 
 
-# Unknown devices{#unknown-devices}
+# Unbekannte Geräte{#unknown-devices}
 
-Wenn eine Person Geräte besitzt, über die sie nicht mit Ihrer Marke interagiert, werden diese Geräte „unbekannte Geräte“ genannt.
+Wenn eine Person Geräte hat, die nicht zur Interaktion mit Ihrer Marke verwendet werden, werden diese Geräte als unbekannte Geräte bezeichnet.
 
-## Unknown device categories {#section-014b83fd0f2e4d50aa19dd9fbb46f6ab}
+## Unbekannte Geräte-Kategorien {#section-014b83fd0f2e4d50aa19dd9fbb46f6ab}
 
-Es gibt verschiedene Arten oder Kategorien, die ein Gerät für Sie „unbekannt“ machen können. Dazu gehören:
+Es gibt mehrere Möglichkeiten oder Kategorien, ein Gerät als &quot;unbekannt&quot;zu betrachten. Dazu gehören:
 
-* **Erstanbieterbesuche bei anderen Mitgliedern der :** Besuche auf den Seiten anderer Mitglieder der [!DNL Device Co-op]Device Co-op oder Anzeigen auf einem Gerät machen das Gerät nicht notwendigerweise zu einem bekannten Gerät für Ihre Marke.
+* **Besuche von Erstanbietern bei anderen Device Co-op-Mitgliedern:** Besuche auf anderen [!DNL Device Co-op] Mitgliedsseiten oder Anzeigen auf einem Gerät machen Ihr Gerät nicht an sich bekannt.
 
-* **Nicht verfolgte Werbemittel:** Werbemittel, die verfügbar sind, aber noch nicht geschaltet oder aufgenommen wurden, machen ein Gerät nicht zu einem bekannten Gerät für Ihre Marke.
-* **Verbraucherabmeldung:** Um den Wünschen der Verbraucher zu entsprechen, werden Geräte, die abgemeldet wurden, nicht als bekannte Geräte gewertet.
+* **Nicht nachverfolgter Anzeigenbestand:** Werbebestand, der verfügbar, aber noch nicht bedient oder eingezogen ist, macht Ihr Gerät nicht bekannt.
+* **Ausschluss der Verbraucher:** Um den Wünschen der Verbraucher Rechnung zu tragen, gelten die ausgenommenen Geräte nicht als bekannte Geräte.
 
-Anders als bekannte Geräte sind unbekannte Geräte nicht mit anderen Geräten verknüpft oder mit Einzelpersonen verbunden.
+Im Gegensatz zu bekannten Geräten werden unbekannte Geräte nicht mit anderen Geräten verknüpft oder mit einzelnen Personen verknüpft.
 
-## Rules for setting known/unknown status {#section-fa5c85e59e2d4f88bb79f27f17f02344}
+## Regeln zum Festlegen des Status &quot;bekannt/unbekannt&quot; {#section-fa5c85e59e2d4f88bb79f27f17f02344}
 
-The [!DNL Device Graph] tries to be inclusive as possible when classifying devices as known compared to unknown. Die Regeln, die dabei helfen, den bekannten/unbekannten Status zu bestimmen, funktionieren nach Priorität (1 ist die höchste Priorität), wie unten dargestellt:
+Die [!DNL Device Graph] Versuche, bei der Klassifizierung von Geräten im Vergleich zu unbekannten möglichst inklusiv zu sein. Die Regeln, die bei der Bestimmung des bekannten/unbekannten Status helfen, funktionieren in der Prioritätsreihenfolge (1 ist am höchsten), wie unten dargestellt:
 
-* **Regel 1:** Ist das Gerät abgemeldet? Wenn ja, ist das Gerät unbekannt.
-* **Regel 2:** Ist das Gerät durch *irgendeine* Methode bekannt? Wenn ja, ist das Gerät bekannt.
+* **Regel 1:** Ist das Gerät abgeschaltet? Wenn ja, ist das Gerät unbekannt.
+* **Regel 2:** Ist das Gerät nach *jeder* Methode bekannt? Wenn ja, dann ist das Gerät bekannt.
 
 * **Artikel 3: ** Wenn das vorherige nicht zutrifft, ist das Gerät unbekannt.
 
