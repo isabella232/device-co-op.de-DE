@@ -1,16 +1,19 @@
 ---
 description: 'null'
 seo-description: 'null'
-seo-title: Dokumentation zur Gerätekooperation in Adobe Experience Cloud
-title: Dokumentation zur Gerätekooperation in Adobe Experience Cloud
+seo-title: Dokumentation zur Gerätekooperation
+title: Dokumentation zur Gerätekooperation
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
 translation-type: tm+mt
 source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+workflow-type: tm+mt
+source-wordcount: '148'
+ht-degree: 44%
 
 ---
 
 
-# Dokumentation zur Gerätekooperation in Adobe Experience Cloud{#adobe-experience-cloud-device-co-op-documentation}
+# Dokumentation zur Gerätekooperation{#adobe-experience-cloud-device-co-op-documentation}
 
 Die [!DNL Adobe Experience Cloud] digitale Genossenschaft [!DNL Device Co-op] besteht darin, dass teilnehmende Kunden die Informationen zum Gerätelink gemeinsam nutzen. Die [!DNL Experience Cloud] [!DNL Device Co-op] Verarbeitung dieser Daten zu Formulargerät-Clustern. Diese Cluster stellen eine Gruppe von Geräten dar, die von einer unbekannten Person verwendet werden. Die [!DNL Device Co-op] Gruppe teilt diese Cluster unter ihren Mitgliedern, wodurch sie ihren Kunden wertvolle und konsistente geräteübergreifende Erlebnisse bieten können.
 
