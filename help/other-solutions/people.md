@@ -13,11 +13,11 @@ ht-degree: 3%
 ---
 
 
-# Metrik &quot;Personen&quot;{#people-metric}
+# Metrik für Personen{#people-metric}
 
 Die Metrik &quot;Personen&quot;ist die Anzahl der Personen (oder Gerätegruppen), die auf dem Gerätediagramm der Adobe basieren. Sie können die Metrik &quot;Personen&quot;anwenden, um Besucher geräteübergreifend in Analysis Workspace zu identifizieren.
 
-## Voraussetzungen und Überlegungen zu Metriken für Personen {#section-34551d0435fb4b3cb3fad736b7961541}
+## Voraussetzungen und Erwägungen für Metriken für Personen {#section-34551d0435fb4b3cb3fad736b7961541}
 
 <table id="table_120F7EF50042485391E58B22DD00A2A8"> 
  <thead> 
@@ -29,23 +29,23 @@ Die Metrik &quot;Personen&quot;ist die Anzahl der Personen (oder Gerätegruppen)
  <tbody> 
   <tr> 
    <td colname="col1"> <p>Device Co-op </p> </td> 
-   <td colname="col2"> <p> Um die Metrik "Personen"zu verwenden, müssen Sie Mitglied der <a href="http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="html" scope="external"> Adobe Experience Cloud Device Co-op</a>werden. Die Kooperation identifiziert die verschiedenen Geräte (oder Experience Cloud-IDs) einer Person. Analytics nutzt diese Informationen, um die Anzahl der Personen, die mit einer Marke interagieren, statistisch abzuleiten. Die Metrik ist auf maximal 5 % genau. </p> <p><b>Regionen</b>: Die Device Co-op ist derzeit nur in den USA und Kanada verfügbar. Daher sollten Sie bei der Auswertung der Metrik "Personen"ein Segment auf Ihre Analyse anwenden, das Ihre Daten nur für die USA und Kanada Filter. </p> <p>Das Gerätediagramm berechnet jede Woche eine neue Version des Co-op und veröffentlicht sie zur Verwendung. Am Dienstag sammelt das System die neuesten Daten und veröffentlicht eine aktualisierte Version des Diagramms. Experience Cloud-Lösungen verwenden dann die neueste Version des Diagramms. Speziell für Analytics werden die Änderungen mittwochs gelesen und die Verarbeitung dauert in der Regel zwischen 1 und 2 Werktagen. </p> <p> <p>Wichtig:  Wenn das Diagramm wöchentlich aktualisiert wird, kann dies historische Auswirkungen auf die Metrik "Personen"haben. Mit anderen Worten, die Zählung historischer Personen kann sich mit der Zeit ändern, während das Diagramm lernt und aktualisiert wird. Wenn Sie beispielsweise heute einen Bericht ausführen, der "Personen im letzten Monat"zählt, und dann in einer Woche nach der Aktualisierung des Diagramms denselben Bericht ausführen, kann sich die Anzahl der historischen "Personen"geringfügig ändern. </p> </p> </td> 
+   <td colname="col2"> <p> Um die Metrik "Personen"zu verwenden, müssen Sie Mitglied der <a href="http://landing.adobe.com/en/na/events/summit/275658-summit-co-op.html" format="html" scope="external"> Adobe Experience Cloud Device Co-op</a> werden. Die Kooperation identifiziert die verschiedenen Geräte (oder Experience Cloud-IDs) einer Person. Analytics nutzt diese Informationen, um die Anzahl der Personen, die mit einer Marke interagieren, statistisch abzuleiten. Die Metrik ist auf maximal 5 % genau. </p> <p><b>Regionen</b>: Die Device Co-op ist derzeit nur in den USA und Kanada verfügbar. Daher sollten Sie bei der Auswertung der Metrik "Personen"ein Segment auf Ihre Analyse anwenden, das Ihre Daten nur für die USA und Kanada Filter. </p> <p>Das Gerätediagramm berechnet jede Woche eine neue Version des Co-op und veröffentlicht sie zur Verwendung. Am Dienstag sammelt das System die neuesten Daten und veröffentlicht eine aktualisierte Version des Diagramms. Experience Cloud-Lösungen verwenden dann die neueste Version des Diagramms. Speziell für Analytics werden die Änderungen mittwochs gelesen und die Verarbeitung dauert in der Regel zwischen 1 und 2 Werktagen. </p> <p> <p>Wichtig:  Wenn das Diagramm wöchentlich aktualisiert wird, kann dies historische Auswirkungen auf die Metrik "Personen"haben. Mit anderen Worten, die Zählung historischer Personen kann sich mit der Zeit ändern, während das Diagramm lernt und aktualisiert wird. Wenn Sie beispielsweise heute einen Bericht ausführen, der "Personen im letzten Monat"zählt, und dann in einer Woche nach der Aktualisierung des Diagramms denselben Bericht ausführen, kann sich die Anzahl der historischen "Personen"geringfügig ändern. </p> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Metrikberechtigungen </td> 
-   <td colname="col2"> <p>Sie können die Metrik "Personen"nur verwenden, wenn Ihnen Zugriff darauf gewährt wurde. Administratoren können<a href="https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/customize-report-access/groups-metrics.html" format="html" scope="external"> die Metrikberechtigungen</a> in den Admin Tools anpassen. </p> </td> 
+   <td colname="col2"> <p>Sie können die Metrik "Personen"nur verwenden, wenn Ihnen Zugriff darauf gewährt wurde. Administratoren können in den Admin Tools Metrikberechtigungen</a> anpassen.<a href="https://docs.adobe.com/content/help/en/analytics/admin/user-product-management/customize-report-access/groups-metrics.html" format="html" scope="external"> </a></p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> Zuordnung zu IMS-Org </td> 
-   <td colname="col2"> <p>Die Metrik "Personen"wird für alle Report Suites aktiviert, die einem IMSORG <a href="https://docs.adobe.com/content/help/de-DE/core-services/interface/about-core-services/report-suite-mapping.html" format="html" scope="external"> zugeordnet sind</a>. </p> </td> 
+   <td colname="col2"> <p>Die Metrik für Personen wird für alle Report Suites aktiviert, die <a href="https://docs.adobe.com/content/help/de-DE/core-services/interface/about-core-services/report-suite-mapping.html" format="html" scope="external"> einem IMSORG</a> zugeordnet sind. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Analyse Projekte/Tools </p> </td> 
-   <td colname="col2"> <p>Verwenden Sie die Metrik "Personen"in <span class="wintitle"> Analysis Workspace</span>, <span class="wintitle"> Ad Hoc Analysis</span>, <span class="wintitle"> Report Builder</span>und über die API. Sie können sie überall dort verwenden, wo Sie die Metrik "Individuelle Besucher"verwenden würden, einschließlich berechneter Metriken. </p> <p>Erstellen Sie beispielsweise eine Metrik "Umsatz pro Person", um eine Metrik "Umsatz pro individuellem Besucher"zu ersetzen. </p> <p>Für die ersten Schritte mit der Metrik "Personen"in Analysis Workspace steht eine <a href="https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html" format="html" scope="external"> Personen-Projektvorlage</a> zur Verfügung. </p> </td> 
+   <td colname="col2"> <p>Verwenden Sie die Metrik "Personen"in <span class="wintitle"> Analysis Workspace</span>, <span class="wintitle"> Ad Hoc Analysis</span>, <span class="wintitle"> Report Builder</span> und über die API. Sie können sie überall dort verwenden, wo Sie die Metrik "Individuelle Besucher"verwenden würden, einschließlich berechneter Metriken. </p> <p>Erstellen Sie beispielsweise eine Metrik "Umsatz pro Person", um eine Metrik "Umsatz pro individuellem Besucher"zu ersetzen. </p> <p>Für die ersten Schritte mit der Metrik "Personen"in Analysis Workspace steht eine <a href="https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/build-workspace-project/starter-projects.html" format="html" scope="external">-Projektvorlage "Personen"zur Verfügung.</a> </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Bot-Regeln aktivieren </p> </td> 
-   <td colname="col2"> <p>Adobe empfiehlt, dass Sie <a href="https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/bot-removal/bot-rules.html" format="html" scope="external"> Bot-Regeln</a>aktivieren, insbesondere bei Verwendung der Metrik "Personen". </p> <p>Wenn ein Bot Ihre Website durchsucht, erhöht dies künstlich die Anzahl der individuellen Besucher. Die Entfernung des Bot-Traffics aus Ihrer Report Suite bietet eine genauere Messung der Aktivität Ihrer digitalen Eigenschaften, sowohl im Hinblick auf individuelle Besucher als auch auf Personen. </p> <p>Gehen Sie dazu zu <span class="uicontrol"> Analytics</span> &gt; <span class="uicontrol"> Admin</span> &gt; <span class="uicontrol"> Report Suites</span>. Select the correct report suite, and then go to <span class="uicontrol"> Edit Settings</span> &gt; <span class="uicontrol"> General</span> &gt; <span class="uicontrol"> Bot Rules</span>. </p> </td> 
+   <td colname="col2"> <p>Adobe empfiehlt, dass Sie <a href="https://docs.adobe.com/content/help/en/analytics/admin/admin-tools/bot-removal/bot-rules.html" format="html" scope="external"> Bot Rules</a> aktivieren, insbesondere bei Verwendung der Metrik "Personen". </p> <p>Wenn ein Bot Ihre Website durchsucht, erhöht dies künstlich die Anzahl der individuellen Besucher. Die Entfernung des Bot-Traffics aus Ihrer Report Suite bietet eine genauere Messung der Aktivität Ihrer digitalen Eigenschaften, sowohl im Hinblick auf individuelle Besucher als auch auf Personen. </p> <p>Navigieren Sie dazu zu <span class="uicontrol"> Analytics</span> &gt; <span class="uicontrol"> Admin</span> &gt; <span class="uicontrol"> Report Suites</span>. Wählen Sie die richtige Report Suite und gehen Sie dann zu <span class="uicontrol"> Einstellungen bearbeiten</span> &gt; <span class="uicontrol"> Allgemein</span> &gt; <span class="uicontrol"> Bot Rules</span>. </p> </td> 
   </tr> 
   <tr> 
    <td colname="col1"> <p>Überlegungen zur Segmentierung </p> </td> 
@@ -115,7 +115,7 @@ Nehmen wir in diesem Beispiel an, es gibt einen festen Satz von Besuchern. Wenn 
 
 ## Verwenden der Metrik &quot;Personen&quot;mit Segmenten {#section-d03525420dbe48379fd95b230ef05885}
 
-Wenn Sie Segmente mit der Metrik &quot;Personen&quot;verwenden, sind die Metrikergebnisse möglicherweise deutlich niedriger als erwartet. Dieses Problem tritt auf, weil es in der Segmentierung keinen *`person`* Container gibt. Bei der Segmentierung wird der Besucher-Container verwendet, der der Container der obersten Ebene in der Definition ist und auf dem Gerät und nicht auf der Person basiert.
+Wenn Sie Segmente mit der Metrik &quot;Personen&quot;verwenden, sind die Metrikergebnisse möglicherweise deutlich niedriger als erwartet. Dieses Problem tritt auf, weil in der Segmentierung kein *`person`*-Container vorhanden ist. Bei der Segmentierung wird der Besucher-Container verwendet, der der Container der obersten Ebene in der Definition ist und auf dem Gerät und nicht auf der Person basiert.
 
 Dieses Problem tritt vor allem beim Stapeln von Segmenten mit der Metrik &quot;Personen&quot;auf.
 
@@ -123,8 +123,8 @@ Dieses Problem tritt vor allem beim Stapeln von Segmenten mit der Metrik &quot;P
 
 Beim Stapeln von Segmenten wird ein neues Segment erstellt, das die Kombination der Segmente darstellt. Die Stapelung von Segmenten erfolgt immer dann, wenn:
 
-* Platzieren Sie ein Segment über einem anderen Segment in Analysis Workspace. (Diese werden automatisch mit dem *`And`* Operator verbunden.)
-* Wenden Sie ein Segment an, das den *`And`* Operator enthält.
+* Platzieren Sie ein Segment über einem anderen Segment in Analysis Workspace. (Diese werden automatisch mit dem Operator *`And`* verbunden.)
+* Wenden Sie ein Segment an, das den Operator *`And`* enthält.
 * Wenden Sie ein Segment sowohl auf Projekt- als auch auf Tabellenebene an.
 * Verwenden Sie eine Virtual Report Suite mit einem anderen Segment.
 
@@ -133,9 +133,9 @@ Nehmen Sie beispielsweise an, Sie stapeln die folgenden Segmente in der Metrik &
 * `Campaign = Spring Promotion`
 * `Site Section = Product Overview`
 
-Nur die Anzahl der Personen, die sich in beiden Segmenten qualifizieren, *`using a single device`* wird gezählt. (Die Metrik &quot;Personen&quot;zeigt nicht die Anzahl der qualifizierenden Personen geräteübergreifend an.)
+Nur die Anzahl der Personen, die sich in beiden Segmenten *`using a single device`* qualifizieren, wird gezählt. (Die Metrik &quot;Personen&quot;zeigt nicht die Anzahl der qualifizierenden Personen geräteübergreifend an.)
 
-Auch die Verwendung des *`Or`* Operators wird in diesem Fall nicht empfohlen. Dies würde eine Anzahl von Personen ergeben, die das eine oder andere gesehen haben, ohne zu zählen, wie viele Personen sich für beide Segmente qualifizieren.
+Auch die Verwendung des Operators *`Or`* wird in dieser Situation nicht empfohlen. Dies würde eine Anzahl von Personen ergeben, die das eine oder andere gesehen haben, ohne zu zählen, wie viele Personen sich für beide Segmente qualifizieren.
 
 Weitere Informationen finden Sie unter [Erstellen von Segmenten](https://docs.adobe.com/content/help/de-DE/analytics/components/segmentation/segmentation-workflow/seg-build.html) in der Segmentierungshilfe.
 
@@ -145,7 +145,7 @@ Die Metrik &quot;Gerätekooperation&quot;und &quot;Personen&quot;funktioniert am
 
 ![](assets/people-device-types.png)
 
-## Experience Cloud ID Service Coverage {#section-bbf0098cac2e467289e7a644a1dea05c}
+## Experience Cloud-ID-Dienstabdeckung {#section-bbf0098cac2e467289e7a644a1dea05c}
 
 Für die Gerätekooperation müssen Ihre digitalen Eigenschaften mit dem Experience Cloud-ID-Dienst (MCID) instrumentiert werden. Wenn die Daten in Ihrer Report Suite eine erhebliche Anzahl von Besuchern ohne MCID enthalten, wird die Effektivität der Metrik &quot;Gerätekooperation&quot;und &quot;Personen&quot;verringert.
 
@@ -153,7 +153,7 @@ Für die Gerätekooperation müssen Ihre digitalen Eigenschaften mit dem Experie
 mcdc-people-metric-apply.xml
 -->
 
-Erstellen Sie in Analysis Workspace ein [Projekt](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html)und ziehen Sie dann die **[!UICONTROL People]** Metrik in die Projekttabelle:
+Erstellen Sie in Analysis Workspace ein [Projekt](https://docs.adobe.com/content/help/de-DE/analytics/analyze/analysis-workspace/build-workspace-project/t-freeform-project.html) und ziehen Sie dann die Metrik **[!UICONTROL People]** in die Projekttabelle:
 
 ![](assets/people-metric.png)
 
