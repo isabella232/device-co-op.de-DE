@@ -13,8 +13,8 @@ ht-degree: 0%
 ---
 
 
-# Opt-out-Tool, Datenschutz und Gerätediagramm{#consumer-opt-out-tool-privacy-and-the-device-graph}
+# Opt-out-Tool, Datenschutz und das Gerätediagramm{#consumer-opt-out-tool-privacy-and-the-device-graph}
 
 Wie die Gerätekooperation die Privatsphäre der Verbraucher schützt.
 
-Informationen zum Schutz der Privatsphäre der Verbraucher finden Sie auf der Website [Device Co-op-Datenschutzkontrolle](https://cross-device-privacy.adobe.com/) . [!DNL Adobe Experience Cloud]
+Informationen zum Schutz der Privatsphäre der Verbraucher finden Sie auf der Website [Device Co-op Privacy Control](https://cross-device-privacy.adobe.com/)[!DNL Adobe Experience Cloud]
