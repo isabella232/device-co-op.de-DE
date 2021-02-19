@@ -13,7 +13,7 @@ ht-degree: 24%
 ---
 
 
-# Versionshinweise zur Experience Cloud Device Co-op-Zusammenarbeit{#experience-cloud-device-co-op-release-notes}
+# Versionshinweise zur Gerätekooperation{#experience-cloud-device-co-op-release-notes}
 
 Funktionsveröffentlichungen, Aktualisierungen oder Änderungen am Device Co-op.
 
