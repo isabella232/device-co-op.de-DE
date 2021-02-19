@@ -21,31 +21,31 @@ Im Gerätediagramm haben wir das Konzept eines *`known device`*. Ein bekanntes G
 
 >[!NOTE]
 >
->In den [!DNL Adobe Experience Cloud Device Co-op]Begriffen wie *`device`*, *`person`*, *`identity`* usw. eine spezifische Bedeutung haben. &quot;Gerät&quot;kann beispielsweise auf physische Hardware wie Smartphones oder Tablets und auf Anwendungen, die auf dieser Hardware ausgeführt werden, verweisen. Definitionen finden Sie im [Glossar](../glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c) .
+>In den [!DNL Adobe Experience Cloud Device Co-op]-Begriffen wie *`device`*, *`person`*, *`identity`* usw. eine spezifische Bedeutung haben. &quot;Gerät&quot;kann beispielsweise auf physische Hardware wie Smartphones oder Tablets und auf Anwendungen, die auf dieser Hardware ausgeführt werden, verweisen. Definitionen finden Sie unter [Glossar](../glossary.md#glossgroup-0f47d7fbd76c4759801f565f341a386c).
 
-## Ziele mit dem bekannten Gerät unterstützen {#section-80deae33660e4280ac65c659ceff5601}
+## Unterstützende Ziele mit dem bekannten Gerät {#section-80deae33660e4280ac65c659ceff5601}
 
-Das bekannte Gerätekonzept unterstützt einige Ziele, die für die Erstellung und Pflege eines effektiven [!DNL Device Co-op] Programms unverzichtbar sind. Ein bekanntes Gerät ist ein Gerät, über das ein [!DNL Device Co-op] Mitglied aus einer Interaktion mit einem Kunden (z. B. einem Site-Besuch oder der Verwendung einer mobilen App) weiß. Basierend auf diesen Aktionen werden die bekannten Geräte eines [!DNL Device Graph] Mitglieds mit Geräten anderer [!DNL Device Co-op] [!DNL Device Co-op] Mitglieder verknüpft. Diese Links können [deterministisch oder probabilistisch](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)sein. Dies kommt [!DNL Device Co-op] Mitgliedern zugute, da sie
+Das bekannte Gerätekonzept unterstützt einige Ziele, die für die Erstellung und Wartung eines effektiven [!DNL Device Co-op]-Programms unverzichtbar sind. Ein bekanntes Gerät ist ein Gerät, über das ein [!DNL Device Co-op]-Mitglied aus einer Interaktion mit einem Kunden weiß (z. B. einen Site-Besuch oder durch die Verwendung einer mobilen App). Basierend auf diesen Aktionen verknüpft das [!DNL Device Graph] die bekannten Geräte eines [!DNL Device Co-op]-Mitglieds mit Geräten, die von anderen [!DNL Device Co-op]-Mitgliedern bereitgestellt wurden. Diese Links können [deterministisch oder probabilistisch](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931) sein. Davon profitieren [!DNL Device Co-op]-Mitglieder, da sie empfangen:
 
 * Weitere Daten zu den bekannten Geräten.
 * Neue Informationen zu anderen verknüpften Geräten.
 
 ![](assets/known-device.png)
 
-Die [!DNL Device Graph] stellt keine Informationen zu Geräte-Clustern bereit, die ein Mitglied der Gerätekooperation nicht gesehen hat.
+Das [!DNL Device Graph] stellt keine Informationen zu Geräte-Clustern bereit, die ein Device Co-op-Mitglied nicht gesehen hat.
 
-## Ziele der Gerätekooperation {#section-75aea5a102d54733aae2a7c6ee9ec6c7}
+## Geräte-Co-op-Ziele {#section-75aea5a102d54733aae2a7c6ee9ec6c7}
 
-Drei Hauptziele beleben die [!DNL Device Co-op]. Dazu gehören:
+Drei Hauptziele beleben das [!DNL Device Co-op]. Dazu gehören:
 
-* **Skalierung:** Geben Sie die maximale Anzahl möglicher Links für eine Vielzahl von Anwendungsfällen frei.
-* **Fairness:** Gewährleistung, dass alle Mitglieder der [!DNL Device Co-op] Leistungen ihren Beiträgen angemessen sind.
+* **Skalierung:** Geben Sie die maximale Anzahl möglicher Links für verschiedene Anwendungsfälle frei.
+* **Fairness:** Sicherstellen, dass jedes Mitglied der  [!DNL Device Co-op] Leistungen seinen Beiträgen angemessen ist.
 
-* **Vertrauen der Verbraucher:** Konsumentenvertrauen erhalten und aufbauen, indem sichergestellt wird, dass die geräteübergreifende Erfahrung der Verbraucher bereits bekannte und vertrauensvolle Marken umfasst.
+* **Vertrauen der Verbraucher:** Beibehaltung und Stärkung des Verbrauchervertrauens, indem sichergestellt wird, dass die geräteübergreifende Erfahrung der Verbraucher Marken umfasst, die sie bereits kennen und denen sie vertrauen.
 
 ## Skalieren und das bekannte Gerät {#section-67f734109762457ca62ec306284ea082}
 
-Die folgenden Methoden sind die gebräuchlichsten Methoden, mit denen ein Gerät als zweifelsfrei funktionierendes Gerät eingestuft wird. Bei diesen Methoden haben die [!DNL Device Co-op] Mitglieder fast immer mindestens ein bekanntes Gerät. Dies unterstützt das Ziel, allen Mitgliedern der Gruppe maximale Skalierbarkeit zu bieten [!DNL Device Co-op].
+Die folgenden Methoden sind die gebräuchlichsten Methoden, mit denen ein Gerät als zweifelsfrei funktionierendes Gerät eingestuft wird. Bei diesen Methoden haben [!DNL Device Co-op]-Mitglieder fast immer mindestens ein bekanntes Gerät. Dies unterstützt das Ziel, allen Mitgliedern des [!DNL Device Co-op] maximale Skalierung zu bieten.
 
 **Organisch**
 
@@ -59,15 +59,15 @@ Die folgenden Methoden sind die gebräuchlichsten Methoden, mit denen ein Gerät
 
 **Werbung**
 
-Indem sie den Bestand in einer Auktion gewinnen und eine Anzeige an ein Gerät senden. Das Gerät wird zu einem bekannten Gerät, wenn diese Anzeige ein [!DNL Audience Manager] Pixel enthält.
+Indem sie den Bestand in einer Auktion gewinnen und eine Anzeige an ein Gerät senden. Das Gerät wird zu einem bekannten Gerät, wenn diese Anzeige ein [!DNL Audience Manager]-Pixel enthält.
 
 ## Bekannte Geräte und Fairness-Anwendungsfälle {#section-0543188729d845d6b95db70b8b25e9f8}
 
-Mitglieder der [!DNL Device Co-op] erhalten Links entsprechend ihren Beiträgen zur [!DNL Device Graph]. Firmen, die viele Geräte zur [!DNL Device Graph] Verfügung stellen, erhalten mehr Links als Mitglieder, die nur wenige beitragen. Wir sind der Meinung, dass dies dazu beiträgt, die [!DNL Device Co-op] Fairness für alle Mitglieder zu gewährleisten. Schauen wir uns an, wie das mit den unten beschriebenen Groß- und Klein-Anwendungsfällen funktioniert.
+Mitglieder der [!DNL Device Co-op] erhalten Links entsprechend ihren Beiträgen zum [!DNL Device Graph]. Firmen, die viele Geräte zu den [!DNL Device Graph] beitragen, erhalten mehr Links als Mitglieder, die nur einige beitragen. Wir glauben, dass dies dazu beiträgt, die [!DNL Device Co-op] fair für alle Mitglieder zu machen. Schauen wir uns an, wie das mit den unten beschriebenen Groß- und Klein-Anwendungsfällen funktioniert.
 
 **Marke A: Großes Anwendungsbeispiel**
 
-In diesem Beispiel hat Marke A jeden Monat 100 Site-Besucher und Beginn eine neue geräteübergreifende Kampagne. Angenommen, der Benutzer [!DNL Device Graph] weiß, dass alle Besucher der Marke A mit einem zusätzlichen Gerät verknüpft sind. Das bedeutet, dass Marke A weitere 100 Geräte erreichen könnte. Darüber hinaus [!DNL Device Graph] enthält das Programm rund 200 miteinander verbundene Geräte.
+In diesem Beispiel hat Marke A jeden Monat 100 Site-Besucher und Beginn eine neue geräteübergreifende Kampagne. Angenommen, der [!DNL Device Graph] weiß, dass alle Besucher der Marke A mit einem zusätzlichen Gerät verknüpft sind. Das bedeutet, dass Marke A weitere 100 Geräte erreichen könnte. Darüber hinaus enthält das [!DNL Device Graph] rund 200 Geräte, die miteinander verknüpft sind.
 
 <table id="table_78C38DC522F94BC38C1DB73740C058AC"> 
  <thead> 
@@ -88,7 +88,7 @@ In diesem Beispiel hat Marke A jeden Monat 100 Site-Besucher und Beginn eine neu
 
 **Marke B: Kleinbuchstabe**
 
-In diesem Beispiel hat Marke B jeden Monat 100 Site-Besucher und Beginn eine neue geräteübergreifende Kampagne. Angenommen, der Benutzer [!DNL Device Graph] weiß, dass alle Besucher der Marke B mit 50 zusätzlichen Geräten verbunden sind. Das bedeutet, dass Marke B 150 Geräte erreichen könnte. Darüber hinaus [!DNL Device Graph] enthält das Programm rund 1.000 miteinander verbundene Geräte.
+In diesem Beispiel hat Marke B jeden Monat 100 Site-Besucher und Beginn eine neue geräteübergreifende Kampagne. Angenommen, die [!DNL Device Graph] wissen, dass alle Besucher der Marke B mit 50 zusätzlichen Geräten verknüpft sind. Das bedeutet, dass Marke B 150 Geräte erreichen könnte. Darüber hinaus enthält das [!DNL Device Graph] rund 1.000 Geräte, die miteinander verknüpft sind.
 
 <table id="table_A6C9CCF9C6564A89BA7060E075A8E73C"> 
  <thead> 
