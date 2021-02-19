@@ -19,4 +19,4 @@ Gerätediagrammdaten stehen als Zusammenführungsregeloption in Profil Link zur 
 
 Profil Link funktioniert mit geräteübergreifenden Datenquellen, um Eigenschaften für authentifizierte Site-Besucher zu identifizieren und zu erfassen. Es enthält die Funktion zum Zusammenführen von Profilen. Mit Profil Merge Rules erhalten Sie die Kontrolle über die für die Segmentierung verwendeten Datensätze und können eine Zielgruppe auf mehreren Geräten durchführen.
 
-See the [Profile Link documentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html) for more information.
+Weitere Informationen finden Sie in der [Profil Link-Dokumentation](https://docs.adobe.com/content/help/en/audience-manager/user-guide/features/profile-merge-rules/merge-rules-overview.html).
