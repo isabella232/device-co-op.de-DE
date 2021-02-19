@@ -13,9 +13,9 @@ ht-degree: 44%
 ---
 
 
-# Dokumentation zur Gerätekooperation{#adobe-experience-cloud-device-co-op-documentation}
+# Adobe Experience Cloud Device Co-op-Dokumentation{#adobe-experience-cloud-device-co-op-documentation}
 
-Die [!DNL Adobe Experience Cloud] digitale Genossenschaft [!DNL Device Co-op] besteht darin, dass teilnehmende Kunden die Informationen zum Gerätelink gemeinsam nutzen. Die [!DNL Experience Cloud] [!DNL Device Co-op] Verarbeitung dieser Daten zu Formulargerät-Clustern. Diese Cluster stellen eine Gruppe von Geräten dar, die von einer unbekannten Person verwendet werden. Die [!DNL Device Co-op] Gruppe teilt diese Cluster unter ihren Mitgliedern, wodurch sie ihren Kunden wertvolle und konsistente geräteübergreifende Erlebnisse bieten können.
+Die [!DNL Adobe Experience Cloud] [!DNL Device Co-op] ist eine digitale Genossenschaft, bei der teilnehmende Kunden Geräteverknüpfungsinformationen freigeben. Die [!DNL Experience Cloud] [!DNL Device Co-op] verarbeitet diese Daten zu Formulargerät-Clustern. Diese Cluster stellen eine Gruppe von Geräten dar, die von einer unbekannten Person verwendet werden. Die [!DNL Device Co-op] teilt diese Cluster mit ihren Mitgliedern, was ihnen hilft, ihren Kunden wertvolle und konsistente geräteübergreifende Erlebnisse bereitzustellen.
 
 <!-- <a id="section_535A849B2BF14221BD78C968CC02732D"></a> -->
 
@@ -31,7 +31,7 @@ Die [!DNL Adobe Experience Cloud] digitale Genossenschaft [!DNL Device Co-op] be
    <td colname="col2"> <p> <b>Versionshinweise</b> </p> 
     <ul id="ul_713F3E9DF0F84FE5981AC63D05948864"> 
      <li id="li_09C1CD15823E4AD7856CE40BE848E03F">Neue Funktionen und Fehlerbehebungen finden Sie in den <a href="https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/current.html" format="https" scope="external">Experience Cloud-Versionshinweisen</a>. </li> 
-     <li id="li_EA594E939ED14D7780178DEA8E1AED64">See the <a href="https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/current.html" format="https" scope="external"> previous release notes links</a> for older announcements. </li> 
+     <li id="li_EA594E939ED14D7780178DEA8E1AED64">Ältere Ankündigungen finden Sie unter <a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html" format="https" scope="external"> Links zu vorherigen Versionshinweisen</a>. </li> 
     </ul> <p> <b>Experience Cloud-Ressourcen</b> </p> 
     <ul id="ul_E30EC96BDC624B5591F0470D430B7F41"> 
      <li id="li_F3A5CCFAE0F247CEB41A03CA8E03106B"> <a href="http://www.adobe.com/de/marketing-cloud.html" scope="external" format="http"> Adobe Experience Cloud</a> </li> 
