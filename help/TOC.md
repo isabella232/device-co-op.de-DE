@@ -25,7 +25,7 @@ ht-degree: 31%
    + [Linkfreigabe im Gerätediagramm](processes/link-sharing.md)
    + [Bekannte Geräte](processes/known-device.md)
    + [Unbekannte Geräte](processes/unknown-device.md)
-+ Device Co-op-Daten in Experience Cloud-Lösungen {#data}
++ Device co-op-Daten in Experience Cloud-Lösungen {#data}
    + [Device Co-op-Daten in Experience Cloud-Lösungen](other-solutions/other-solutions.md)
    + [Metrik &quot;Personen&quot;](other-solutions/people.md)
    + [Audience Manager - Profil-Link](other-solutions/proflie-link.md)
