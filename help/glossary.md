@@ -13,7 +13,7 @@ ht-degree: 0%
 ---
 
 
-# Glossar der Begriffe &quot;Gerätekooperation&quot;{#glossary-of-device-co-op-terms}
+# Glossar der Begriffe für die Gerätekooperation{#glossary-of-device-co-op-terms}
 
 Glossar der in der Gerätekooperation verwendeten Begriffe.
 
@@ -23,11 +23,11 @@ Das Programm besteht aus Markenbezeichnungen, allen Adoben, die sich bereit erkl
 
 **Deterministische Verknüpfung**
 
-Verknüpft ein Gerät basierend auf der Authentifizierung mit einer Person (z. B. einer Anmeldung einer Person auf einem Gerät). Siehe [Deterministische und wahrscheinliche Links](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)
+Verknüpft ein Gerät basierend auf der Authentifizierung mit einer Person (z. B. einer Anmeldung einer Person auf einem Gerät). Siehe [Deterministische und probabilistische Links](processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931)
 
 **Gerät**
 
-Im Zusammenhang mit der [!DNL Device Graph], *`device`* hat eine doppelte Bedeutung. Erstens ist ein Gerät ein Hardwaregerät wie Tablet, Telefon oder Desktop, auf dem andere Geräte ausgeführt werden. Zweitens handelt es sich bei einem Gerät um ein Mobilgerät, einen Desktop oder einen anderen Interaktionspunkt, an dem eine Person mit einer Marke interagiert. Derzeit wird einer Person für jedes verwendete Gerät eine eindeutige [!DNL Experience Cloud] ID zugewiesen. Beispielsweise könnte dieselbe Person mit einer Marke aus Chrome auf ihrem Desktop, Firefox auf ihrem Laptop und einer App auf einem Android-Smartphone interagieren. In diesem Fall werden Chrome, Firefox und die App als &quot;Geräte&quot;betrachtet.
+Im Kontext von [!DNL Device Graph] hat *`device`* eine doppelte Bedeutung. Erstens ist ein Gerät ein Hardwaregerät wie Tablet, Telefon oder Desktop, auf dem andere Geräte ausgeführt werden. Zweitens handelt es sich bei einem Gerät um ein Mobilgerät, einen Desktop oder einen anderen Interaktionspunkt, an dem eine Person mit einer Marke interagiert. Derzeit wird einer Person für jedes verwendete Gerät eine eindeutige [!DNL Experience Cloud]-ID zugewiesen. Beispielsweise könnte dieselbe Person mit einer Marke aus Chrome auf ihrem Desktop, Firefox auf ihrem Laptop und einer App auf einem Android-Smartphone interagieren. In diesem Fall werden Chrome, Firefox und die App als &quot;Geräte&quot;betrachtet.
 
 **Geräte pro Person**
 
@@ -39,11 +39,11 @@ Eine für jedes Hardwaregerät eindeutige ID, die für Werbezwecke verwendet wir
 
 **Gerätediagramm**
 
-Der Satz [!DNL Device Graph] aller Personen und der zugehörigen Geräte. Die Adobe Experience Cloud Device Co-op generiert die [!DNL Device Graph].
+Das [!DNL Device Graph] ist der Satz aller Personen und der zugehörigen Geräte. Die Adobe Experience Cloud Device Co-op generiert das [!DNL Device Graph].
 
 **Verknüpfung**
 
-Gruppieren von [Geräten](glossary.md#glossentry-5690d9a245634214b91890156e216950) über ihre Touchpoints.
+Gruppieren von [Geräten](glossary.md#glossentry-5690d9a245634214b91890156e216950) durch ihre Berührungspunkte.
 
 **Probabilistische Verknüpfung**
 
