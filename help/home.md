@@ -1,17 +1,15 @@
 ---
-description: 'null'
-seo-description: 'null'
-seo-title: Dokumentation zur Gerätekooperation
+description: Dokumentation zur Gerätekooperation
 title: Dokumentation zur Gerätekooperation
 uuid: ec951e20-8736-4d42-b5e5-3e9abfc6820d
+exl-id: 6fab66de-127c-4267-9e55-4e3b74881b10
 translation-type: tm+mt
-source-git-commit: 822882d4f9bb9eed7cf116597b62d07bbe94376c
+source-git-commit: bbb8feec60964862a58af354e2678509537e2cc5
 workflow-type: tm+mt
-source-wordcount: '148'
-ht-degree: 44%
+source-wordcount: '146'
+ht-degree: 45%
 
 ---
-
 
 # Adobe Experience Cloud Device Co-op-Dokumentation{#adobe-experience-cloud-device-co-op-documentation}
 
@@ -26,9 +24,9 @@ Die [!DNL Adobe Experience Cloud] [!DNL Device Co-op] ist eine digitale Genossen
     <ul id="ul_47C012F6AB3E4B73BA357027F4D15369"> 
      <li id="li_30DBD4F8A9FA4FEFA3E3E5903FC55887"><a href="about/overview.md#concept-de34e3bacae94869909e979f24bcc4e8" format="dita" scope="local"> Übersicht</a> </li> 
      <li id="li_10D0D3D338FF445098EE18B322951FAF"><a href="about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43" format="dita" scope="local"> Mitgliedschaftsanforderungen</a> </li> 
-     <li id="li_466DC0DA0CD84E9E81EEF3237DCD411A"><a href="other-solutions/people.md#concept-8c57cd3904974e078d7fbf84ac9c2d63" format="dita" scope="local"> Metrik "Personen"</a> </li> 
+     <li id="li_466DC0DA0CD84E9E81EEF3237DCD411A"><a href="other-solutions/people.md#concept-8c57cd3904974e078d7fbf84ac9c2d63" format="dita" scope="local"> Metrik für Personen</a> </li> 
     </ul> </td> 
-   <td colname="col2"> <p> <b>Versionshinweise</b> </p> 
+   <td colname="col2"> <p> Versionshinweise zu <b></b> </p> 
     <ul id="ul_713F3E9DF0F84FE5981AC63D05948864"> 
      <li id="li_09C1CD15823E4AD7856CE40BE848E03F">Neue Funktionen und Fehlerbehebungen finden Sie in den <a href="https://docs.adobe.com/content/help/de-DE/release-notes/experience-cloud/current.html" format="https" scope="external">Experience Cloud-Versionshinweisen</a>. </li> 
      <li id="li_EA594E939ED14D7780178DEA8E1AED64">Ältere Ankündigungen finden Sie unter <a href="https://docs.adobe.com/content/help/en/release-notes/experience-cloud/current.html" format="https" scope="external"> Links zu vorherigen Versionshinweisen</a>. </li> 
@@ -46,4 +44,3 @@ Die [!DNL Adobe Experience Cloud] [!DNL Device Co-op] ist eine digitale Genossen
 <p><b>Announcements</b> </p>
 <p>Take a moment to review the <a href="about/requirements.md#concept-31d3d165d22546afbedf023d32ad3a43" format="dita" scope="local"> membership requirements</a> or <a href="https://marketing-stage.adobe.com/resources/help/en_US/mcdc/downloads/what_to_expect.pdf" format="https" scope="external"> download the information sheet</a> if you want participate or to learn more about the <span class="wintitle"> Device Co-op</span>. </p>
 -->
-
