@@ -4,14 +4,13 @@ seo-description: Die Adobe Experience Cloud Device Co-op ist ein Programm, mit d
 seo-title: Übersicht
 title: Übersicht
 uuid: 9e2502db-0dc6-4b0f-965f-71894fb1f9d4
-translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+exl-id: 8195162c-fab4-49d8-8f6f-1e9ed96ffaa7
+source-git-commit: e7a53a4892a8769fc178f5f3f2b82201589177b2
 workflow-type: tm+mt
 source-wordcount: '879'
 ht-degree: 1%
 
 ---
-
 
 # Übersicht{#overview}
 
@@ -35,7 +34,7 @@ we may not want to share info in this with customers who have not signed. Also, 
 
 Einem Besucher, der sich im [!DNL Device Co-op], [!DNL Adobe]:
 
-* **Ist ein Datenmanager: **Device Co-op-Mitglieder geben Daten nicht direkt miteinander frei. Stattdessen fungiert [!DNL Adobe] als Makler, um Device-Link-Daten für die Co-op über das [!DNL Device Graph] verfügbar zu machen. Device Co-op-Mitglieder können mit diesen Daten über Funktionen in ihren aktivierten [!DNL Experience Cloud]-Lösungen arbeiten.
+* **Ist ein Datensteward:** Device Co-op-Mitglieder geben Daten nicht direkt miteinander frei. Stattdessen fungiert [!DNL Adobe] als Makler, um Device-Link-Daten für die Co-op über das [!DNL Device Graph] verfügbar zu machen. Device Co-op-Mitglieder können mit diesen Daten über Funktionen in ihren aktivierten [!DNL Experience Cloud]-Lösungen arbeiten.
 
 * **Glaubt an Datengerechtigkeit:** Ein gerechter Datenaustausch ist ein wichtiges Konzept für die Gerätekooperation. Alle [!DNL Device Co-op]-Mitglieder erhalten einen Wert relativ zu dem, was sie beitragen. Wenn Sie noch nie über einen Site-Besuch oder eine Anzeigenimpression mit einer anonymen Person interagiert haben, erhalten Sie keine Informationen über ihre Geräte im [!DNL Device Graph]. Die Gerätekooperation hilft Marken, vertraute Verbraucher mithilfe von unbekannten Geräten zu erkennen.
 
