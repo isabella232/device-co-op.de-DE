@@ -1,12 +1,12 @@
 ---
 keywords: Adobe Experience Cloud; Adobe Experience Cloud; Gerätekooperation; Device Co-op; Ende der Lebensdauer
-solution: Adobe Experience Cloud
 title: Häufig gestellte Fragen zur Einstellung der Gerätekooperation
 description: Erfahren Sie mehr über die Pläne zum Ende der Nutzungsdauer für die Gerätekooperation.
-source-git-commit: b9e21ba2f749b7a4ad69c122e2273b7f3309da58
+exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
+source-git-commit: c19e8425d5d6c2498186c19929907d2ee5327b31
 workflow-type: tm+mt
 source-wordcount: '1017'
-ht-degree: 2%
+ht-degree: 4%
 
 ---
 
@@ -51,7 +51,7 @@ Die folgenden Anwendungen sind von den Verfahren zum Ende der Lebensdauer von [!
 
 ### [!DNL Analytics]
 
-Sie können die Funktion [!DNL Analytics] [Cross-Device Analytics (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html) verwenden, da sie sowohl den Adobe Experience Platform Identity-Dienst [Private Graph](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en) als auch [Feldbasiertes Stitching](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en) unterstützt.
+Sie können die Funktion [!DNL Analytics] [Cross-Device Analytics (CDA)](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html?lang=de) verwenden, da sie sowohl den Adobe Experience Platform Identity-Dienst [Private Graph](https://experienceleague.adobe.com/docs/analytics/components/cda/device-graph.html?lang=en) als auch [Feldbasiertes Stitching](https://experienceleague.adobe.com/docs/analytics/components/cda/field-based-stitching.html?lang=en) unterstützt.
 
 ### [!DNL Audience Manager]
 
@@ -77,7 +77,7 @@ Für [!DNL Target] sind derzeit keine Alternativen verfügbar, da [!DNL Target] 
 
 Ihre vorhandene Besucher-ID-Service-Implementierung unterstützt Analytics [CDA](https://experienceleague.adobe.com/docs/analytics/components/cda/overview.html). Wenn es sich bei Ihrer vorhandenen deklarierten ID um eine Hash-E-Mail handelt, kann dies für die folgenden Funktionen verwendet werden:
 
-- [!DNL Audience Manager] [Benutzerbezogene Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html).
+- [!DNL Audience Manager] [Benutzerbezogene Ziele](https://experienceleague.adobe.com/docs/audience-manager/user-guide/features/destinations/people-based/people-based-destinations-overview.html?lang=de).
 - [Experience Platform Segment Match (Alpha) ](https://experienceleague.adobe.com/docs/experience-platform/segmentation/ui/segment-match.html?lang=en).
 
 ## Kann ich meine Daten von [!DNL Device Co-op] beibehalten?
