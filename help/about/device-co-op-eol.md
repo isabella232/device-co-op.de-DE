@@ -3,9 +3,9 @@ keywords: Adobe Experience Cloud; Adobe Experience Cloud; Gerätekooperation; De
 title: Häufig gestellte Fragen zur Einstellung der Gerätekooperation
 description: Erfahren Sie mehr über die Pläne zum Ende der Nutzungsdauer für die Gerätekooperation.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 8896718ce5fec25cb72f7a2a5ccb4573433e0bb1
+source-git-commit: 952fe1bc73efd99812f3f2950b009ff8dcd83ae1
 workflow-type: tm+mt
-source-wordcount: '1019'
+source-wordcount: '1053'
 ht-degree: 5%
 
 ---
@@ -25,6 +25,10 @@ Die bevorstehenden Änderungen in der AdTech-Umgebung werden voraussichtlich zu 
 ## Warum endet die Adobe? [!DNL Device Co-op] jetzt anmelden?
 
 Anmeldungen enden, um zu verhindern, dass die Kundenerwartungen aufgrund der bevorstehenden Branchenänderungen in Bezug auf Drittanbieter-Cookies nicht erfüllt werden. [!DNL Device Co-op] dauert einige Monate, um vorbereitet zu werden, und weitere Monate, um Wert aus dem Dienst zu extrahieren. Alle weiteren Anmeldungen zu diesem Zeitpunkt könnten dazu führen, dass Marken nicht den vollen Wert von [!DNL Device Co-op].
+
+## Am Juli 2022 kündigte Google die Verzögerung der Einstellung von Drittanbieter-Cookies in Chrome auf 2024 an. Dies wirkt sich auf die [!DNL Device Co-op] EOL-Pläne?
+
+Nein, Adobe [!DNL Device Co-op] Die EOL-Pläne bleiben unverändert und werden nicht verlängert.
 
 ## Können sich neue Kunden anmelden?
 
