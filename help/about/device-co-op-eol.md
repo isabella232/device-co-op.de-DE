@@ -3,9 +3,9 @@ keywords: Adobe Experience Cloud; Adobe Experience Cloud; Gerätekooperation; De
 title: Häufig gestellte Fragen zur Einstellung der Gerätekooperation
 description: Erfahren Sie mehr über die Pläne zum Ende der Nutzungsdauer für die Gerätekooperation.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: 952fe1bc73efd99812f3f2950b009ff8dcd83ae1
+source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
 workflow-type: tm+mt
-source-wordcount: '1053'
+source-wordcount: '1079'
 ht-degree: 5%
 
 ---
@@ -40,7 +40,7 @@ Ab dem 11. Juni 2021 wird die Adobe nicht mehr verlängert [!DNL Device Co-op] V
 
 ## Was ist das genaue Enddatum der [!DNL Device Co-op] Programm?
 
-Die [!DNL Device Co-op] Das Programm endet 2022. Der genaue Zeitpunkt und das Datum hängen davon ab, wann [!DNL Google] beginnt, Drittanbieter-Cookies zu blockieren.
+Die [!DNL Device Co-op] Das Programm endet 2022. Der genaue Zeitpunkt und das Datum hängen davon ab, wann [!DNL Google] beginnt, Drittanbieter-Cookies zu blockieren. Die Stilllegungsarbeiten dürften im September 2022 beginnen.
 
 ## Welche Anwendungen sind vom Ende der Gerätekooperation betroffen?
 
@@ -59,7 +59,7 @@ Sie können die [!DNL Analytics] [Geräteübergreifende Analyse (Cross-Device An
 
 ### [!DNL Audience Manager]
 
-[!DNL Audience Manager] verwaltet Integrationen mit Gerätediagrammpartnern von Drittanbietern, einschließlich [!DNL LiveRamp] und [!DNL Tapad], obwohl Sie Handelsbeziehungen mit Diagrammpartnern direkt herstellen müssen, um [!DNL Audience Manager].
+[!DNL Audience Manager] verwaltet Integrationen mit Gerätediagrammpartnern von Drittanbietern, einschließlich [!DNL LiveRamp] und [!DNL Tapad], obwohl Sie Handelsbeziehungen mit Diagrammpartnern direkt herstellen müssen, um [!DNL Audience Manager]. Es wird erwartet, dass alle Kunden Co-op-Profilzusammenführungsrichtlinien aktualisieren, um andere Optionen als [!DNL Device Co-op.]
 
 ### [!DNL Real-time Customer Data Platform]
 
