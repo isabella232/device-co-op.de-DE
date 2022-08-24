@@ -3,16 +3,18 @@ keywords: Adobe Experience Cloud; Adobe Experience Cloud; Gerätekooperation; De
 title: Häufig gestellte Fragen zur Einstellung der Gerätekooperation
 description: Erfahren Sie mehr über die Pläne zum Ende der Nutzungsdauer für die Gerätekooperation.
 exl-id: 015ba95c-0c8d-415e-969c-b8670494de98
-source-git-commit: ab45f8f54046a31e60223a36c374dc99dc968d7c
+source-git-commit: 6cb8efa9090d414e1f75c78d40d1c684d04342f9
 workflow-type: tm+mt
-source-wordcount: '1079'
-ht-degree: 5%
+source-wordcount: '1106'
+ht-degree: 4%
 
 ---
 
 # Häufig gestellte Fragen zur Einstellung der Gerätekooperation
 
 In diesem Dokument finden Sie Antworten auf häufig gestellte Fragen zum Adobe Experience Cloud Device Co-op End of Life (EOL)-Plan. Wenn dieser Plan in Kraft tritt, wird die Adobe im [Experience Cloud-Versionshinweise](https://experienceleague.adobe.com/docs/release-notes/experience-cloud/current.html?lang=de) und [Priority Product Update](https://www.adobe.com/subscription/priority-product-update.html).
+
+Die Device Co-op war ein Programm, mit dem die Teilnehmer zusammenarbeiten konnten, um Verbraucher über digitale Touchpoints hinweg besser zu identifizieren und gleichzeitig ein Höchstmaß an Privatsphäre und Transparenz zu gewährleisten.
 
 ## FAQs
 
@@ -75,7 +77,7 @@ Es gibt derzeit keine Alternativen für [!DNL Target] because [!DNL Target] biet
 
 ### Adobe Advertising Cloud
 
-[!DNL Advertising Cloud] -Kunden können [!DNL Device Co-op] für geräteübergreifendes Zielgruppen-Targeting und Messungen. Mit [!DNL Advertising Cloud], können Sie weiterhin die Adobe [!DNL Device Graph] Partnerschaft [!DNL LiveRamp] diese Funktionen weiterhin im Umfang von [!DNL LiveRamp’s] Fähigkeit und Skalierung. Sie müssen Ihre Kampagnen zulassen, die [!DNL Device Co-op] , um zu beenden, und wechseln Sie dann entweder zum [!DNL LiveRamp] Gerätediagramm-Anbieter verwenden oder kein benutzerbasiertes Targeting mehr nutzen.
+[!DNL Advertising Cloud] -Kunden können [!DNL Device Co-op] für geräteübergreifendes Zielgruppen-Targeting und Messungen. Mit [!DNL Advertising Cloud], können Sie weiterhin die Adobe [!DNL Device Graph] Partnerschaft [!DNL LiveRamp] diese Funktionen weiterhin im Umfang von [!DNL LiveRamp's] Fähigkeit und Skalierung. Sie müssen Ihre Kampagnen zulassen, die [!DNL Device Co-op] , um zu beenden, und wechseln Sie dann entweder zum [!DNL LiveRamp] Gerätediagramm-Anbieter verwenden oder kein benutzerbasiertes Targeting mehr nutzen.
 
 ## Welche vorhandenen Funktionen und Implementierungen können mir bei der Vorbereitung auf eine Zukunft ohne Cookies helfen?
 
