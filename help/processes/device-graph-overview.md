@@ -1,20 +1,19 @@
 ---
 description: Gerätediagramm - Übersicht
-seo-description: Gerätediagramm - Übersicht
-seo-title: Gerätediagramm - Übersicht
+seo-description: Device Graph Overview
+seo-title: Device Graph Overview
 title: Gerätediagramm - Übersicht
-translation-type: tm+mt
-source-git-commit: c4c4d5f795f974297ba3952807329d92e51ccaad
+exl-id: 5ba9caef-e148-4ccd-966b-839390c2646c
+source-git-commit: 573744525fcc00f35540af9ffec46530111940ed
 workflow-type: tm+mt
-source-wordcount: '29'
+source-wordcount: '23'
 ht-degree: 0%
 
 ---
 
-
 # Gerätediagramm - Übersicht
 
-* [Bestimmte und wahrscheinliche Verbindungen](links.md)
+* [Deterministische und probabilistische Verknüpfungen](links.md)
 * [Linkfreigabe im Gerätediagramm](link-sharing.md)
 * [Bekannte Geräte](known-device.md)
 * [Unbekannte Geräte](unknown-device.md)

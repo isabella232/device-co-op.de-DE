@@ -1,57 +1,56 @@
 ---
 description: Informationen zur Linkfreigabe im Gerätediagramm.
-seo-description: Informationen zur Linkfreigabe im Gerätediagramm.
-seo-title: Linkfreigabe im Gerätediagramm
+seo-description: About link sharing in the Device Graph.
+seo-title: Link sharing in the Device Graph
 title: Linkfreigabe im Gerätediagramm
 uuid: 6c7202f0-c6d9-48a4-82ad-ee57d7a518a0
-translation-type: tm+mt
-source-git-commit: c1d0bc05d3f211fa3e899e98fbcc908be7399031
+exl-id: 91ecc493-89d8-40d6-a98b-c2349e25c854
+source-git-commit: 573744525fcc00f35540af9ffec46530111940ed
 workflow-type: tm+mt
-source-wordcount: '557'
+source-wordcount: '544'
 ht-degree: 0%
 
 ---
-
 
 # Linkfreigabe im Gerätediagramm{#link-sharing-in-the-device-graph}
 
 Informationen zur Linkfreigabe im Gerätediagramm.
 
-Die [!DNL Device Graph] weist deterministische und probabilistische Verbindungen mit verschiedenen Mitgliedern der Adobe Experience Cloud Device Co-op auf. Die Linkfreigabe macht das [!DNL Device Co-op] so leistungsstark. Es erweitert, was jedes Mitglied über die Geräte, die mit einer anonymen Person verbunden sind, weiß, aber nur, wenn Sie mindestens eines der Geräte dieser anonymen Person zuvor gesehen haben.
+Die [!DNL Device Graph] gibt deterministische und probabilistische Verknüpfungen mit verschiedenen Mitgliedern der Adobe Experience Cloud Device Co-op frei. Die Linkfreigabe ist das Ergebnis der [!DNL Device Co-op] so mächtig. Es erweitert, was jedes Mitglied über die Geräte weiß, die mit einer anonymen Person verbunden sind, aber nur, wenn Sie mindestens eines der Geräte dieser anonymen Person zuvor gesehen haben.
 
-## Übersicht zum Gerätediagramm {#section-7858e9f61b5644c981ffb53626fcc19d}
+## Übersicht über Gerätediagramme {#section-7858e9f61b5644c981ffb53626fcc19d}
 
-Bevor wir beginnen, sollten wir uns einen Moment Zeit nehmen, um zu überprüfen, wie [!DNL Device Graph] funktioniert. Mitglieder von [!DNL Device Co-op] senden Daten an das [!DNL Device Graph]. [!DNL Device Graph] verwendet diese Daten, um die Identität einer Person aus [deterministischen und wahrscheinlichen Verknüpfungen](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931) zwischen Geräten zu erstellen. Als [!DNL Device Co-op]-Teilnehmer bieten diese Links einen Einblick in die Beziehung zwischen Ihren authentifizierten Benutzern, anderen Benutzern und ihren Geräten. Schauen wir uns an, wie das im folgenden Abschnitt funktioniert.
+Bevor Sie beginnen, sollten wir uns kurz ansehen, wie die [!DNL Device Graph] funktioniert. Mitglieder der [!DNL Device Co-op] Daten an die [!DNL Device Graph]. Die [!DNL Device Graph] verwendet diese Daten, um die Identität einer Person aus [deterministische und probabilistische Verknüpfungen](../processes/links.md#concept-58bb7ab25f904f5f98d645e35205c931) zwischen Geräten. Als [!DNL Device Co-op] -Teilnehmer, bieten diese Links Einblicke in die Beziehung zwischen Ihren authentifizierten Benutzern, anderen Benutzern und ihren Geräten. Sehen wir uns im folgenden Abschnitt an, wie das funktioniert.
 
-## Beispiel für die Linkfreigabe {#section-cb410d827cf14f76bc9b0bd4d31ed767}
+## Beispiel für Link-Freigabe {#section-cb410d827cf14f76bc9b0bd4d31ed767}
 
-Das folgende Beispiel zeigt die Macht der Linkfreigabe im Device Co-op. In diesem Beispiel haben wir 2 fiktive Firmen, die News-Firma und die Finance-Firma. Beide Firmen sind Mitglieder von [!DNL Device Co-op]. Person A ist ein Verbraucher, der sich auf mehreren Geräten anmeldet oder die Websites jeder Firma durchsucht.
+Das folgende Beispiel zeigt die Leistungsfähigkeit der Linkfreigabe in der Device Co-op. In diesem Beispiel haben wir 2 fiktive Unternehmen, die News Company und die Finance Company. Beide Unternehmen sind Mitglieder der [!DNL Device Co-op]. Person A ist ein Verbraucher, der sich auf mehreren Geräten von jedem Unternehmen aus anmeldet oder die Websites durchsucht.
 
 ![](assets/share1.png)
 
-Da sich Person A mit ihrem Handy und Tablet auf der News-Site authentifiziert hat, identifiziert die News-Firma sie mit einer Kunden-ID. Diese ID wird als kryptografischer Hash an [!DNL Device Graph] gesendet. Die Finance-Firma hat diese Geräte bereits gesehen, aber Person A hat sich nicht bei der Site angemeldet. Folglich weiß die Finance-Firma nicht, ob oder wie diese Geräte miteinander in Beziehung stehen oder wie sie mit Person A verbunden sind.
+Da sich Person A mit ihrem Mobiltelefon und Tablet bei der News-Website authentifiziert hat, identifiziert das News Company sie mit einer Kunden-ID. Diese ID wird an die [!DNL Device Graph] als kryptografischen Hash. Das Finanzunternehmen hat diese Geräte schon einmal gesehen, Person A hat sich jedoch nicht bei der Site angemeldet. Folglich weiß das Finanzunternehmen nicht, ob und wie diese Geräte miteinander in Beziehung stehen oder wie sie mit Person A verbunden sind.
 
 ![](assets/share2.png)
 
-Angesichts des kryptografischen Hashs der Consumer-ID erkennt das [!DNL Device Graph], dass diese Geräte miteinander und mit einer bestimmten Person verwandt sind. Firmen, die nicht am [!DNL Device Co-op] teilnehmen, scheinen diese Site-Besuche von separaten, zufälligen Geräten zu stammen. In jedem Fall gilt Folgendes, sobald [!DNL Device Graph] die Hash-ID hat:
+Angesichts des kryptografischen Hash der Verbraucher-ID wird die [!DNL Device Graph] erkennt an, dass diese Geräte miteinander und mit einer bestimmten Person verbunden sind. Für Unternehmen, die nicht an der [!DNL Device Co-op] Diese Site-Besuche scheinen von separaten, zufälligen Geräten zu stammen. Auf jeden Fall muss die Variable [!DNL Device Graph] hat die Hash-ID:
 
-* Wissen, dass Mobiltelefon und Laptop miteinander verbunden sind.
-* erkennt an, dass die Finance-Firma wissen möchte, ob das Mobiltelefon und der Laptop verknüpft sind.
+* Weiß, dass Mobiltelefon und Laptop miteinander verbunden sind.
+* erkennt an, dass das Finanzunternehmen wissen möchte, ob das Mobiltelefon und der Laptop miteinander verbunden sind.
 
-Unter diesen Umständen gibt das [!DNL Device Graph] nun den Link frei, der diese Geräte für die News-Firma mit der Finance-Firma verbindet. Während dieses Vorgangs werden die [!DNL Device Graph]-Duplikat und die Links von einem Co-op-Mitglied zum anderen freigegeben.
+Unter diesen Bedingungen wird die [!DNL Device Graph] gibt nun die Verbindung frei, die diese Geräte für das News-Unternehmen mit dem Finance Company verbindet. Während dieses Prozesses wird die [!DNL Device Graph] dupliziert und gibt den Link von einem Mitglied der Kooperation an ein anderes weiter.
 
 ![](assets/share3.png)
 
-An dieser Stelle hat das [!DNL Device Graph] seine Rolle erfolgreich ausgeführt. Sowohl die News-Firma als auch die Finance-Firma haben ein klares Bild einer Identität. Sie können Person A auf allen ihren Geräten genau erreichen.
+An dieser Stelle wird die [!DNL Device Graph] ihre Rolle erfolgreich ausgeführt hat. Sowohl das Nachrichtenunternehmen als auch das Finanzunternehmen haben ein klares Bild einer Identität. Sie können Person A auf allen ihren Geräten genau erreichen.
 
 ## Datenschutz und Linkfreigabe {#section-7b566018b3304420a4b3e4c079826110}
 
-Die Wahrung der Privatsphäre und Datenintegrität von [!DNL Device Co-op]-Mitgliedern ist während des gesamten Linkaustausches von entscheidender Bedeutung. Während dieses Prozesses zur Kundenidentifizierung und Linkfreigabe hat [!DNL Device Graph] nicht:
+Wahrung der Privatsphäre und Datenintegrität der Verbraucher [!DNL Device Co-op] -Mitglieder sind während des gesamten Linkteilungsprozesses von entscheidender Bedeutung. Während dieser Kundenidentifizierung und Linkfreigabe wird die [!DNL Device Graph] nicht:
 
-* Teilen Sie der Finance-Firma mit, dass der Link aus der News-Firma stammt.
-* Geben Sie die von einem [!DNL Device Co-op]-Mitglied verwendete Kunden-ID für ein anderes Mitglied frei.
-* Geben Sie alle anderen Informationen als die Informationen an, über die das Mobilgerät und der Laptop einen Link gemeinsam nutzen.
+* Teilen Sie dem Finanzunternehmen mit, dass der Link vom Nachrichtenunternehmen stammt.
+* Freigeben der von einer verwendeten Kunden-ID [!DNL Device Co-op] Mitglied mit einem anderen Element.
+* Geben Sie alle Informationen an, außer dass das Mobilgerät und der Laptop einen Link gemeinsam nutzen.
 
 ## Nächste Schritte {#section-ac6e61f1eb6e45b1bb4be8ece39147c7}
 
-Das Lesen der Dokumentation zu Identität, Verknüpfung und Linkfreigabe sollte Ihnen einen guten Eindruck davon vermitteln, wie [!DNL Device Graph] Daten intern zusammenstellt. Als nächsten Schritt empfehlen wir Ihnen, sich unsere Dokumentation anzusehen, in der beschrieben wird, wie das Konzept eines *`known device`* geräteübergreifende Links zu Device Co-op-Mitgliedern bereitstellt. Siehe [Bekannte Geräte](../processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) und [Unbekannte Geräte](../processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40).
+Das Lesen der Dokumentation zu Identität, Verknüpfung und Linkfreigabe sollte Ihnen einen guten Eindruck davon vermitteln, wie die [!DNL Device Graph] Assembliert Daten intern. Als nächsten Schritt empfehlen wir, sich unsere Dokumentation anzusehen, in der das Konzept eines *`known device`* stellt geräteübergreifende Links zu Mitgliedern der Device Co-op bereit. Siehe [Bekannte Geräte](../processes/known-device.md#concept-8e87c276819a48bfac5cef10b45216d1) und [Unbekannte Geräte](../processes/unknown-device.md#concept-95090d341cdc4c22ba4319d79d8f6e40).
